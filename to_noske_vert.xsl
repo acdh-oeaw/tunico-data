@@ -50,7 +50,7 @@
     </xsl:template>
     
     <xsl:template match="t:u">
-        <u who="{substring(@who, 3)}" id="{//t:body/@cr:resource-pid}_u{count(preceding-sibling::*)}"><xsl:text xml:space="preserve">
+        <u who="{substring(@who, 3)}" id="{@xml:id}"><xsl:text xml:space="preserve">
 </xsl:text><xsl:apply-templates/>
         </u><xsl:text xml:space="preserve">
 u__&#x9;
