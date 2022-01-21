@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Souq Salesman II</title>
+				<author>
+					<persName>ID<roleName>Ersttranskription</roleName>
+					</persName>
+				</author>
+				<editor>
+					<persName>ID und IG<roleName>Korrektur</roleName>
+					</persName>
+				</editor>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date/>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<p>CC BY-NC-SA 3.0 AT</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Transkription of an audio file</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xmlns:cr="http://aac.ac.at/content_repository" cr:project-id="tunico" cr:resource-pid="tunico.9">
+			<u xml:id="tunico.9_uIG001" who="s:IG">
+				<w xml:id="tunico.9_uIG001w001" lemma="šnuwwa" type="interrogative" lemmaRef="d:shnuwwa_001">šnuwwa</w>
+				<w xml:id="tunico.9_uIG001w002" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<pc xml:id="tunico.9_uIG001pc001" rend="glue">?</pc>
+				<w xml:id="tunico.9_uIG001w003" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uIG001pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG001w004" rend="glue" lemma="xamsīn" type="numeral" lemmaRef="d:xamsiin_001">xamsīn</w>
+				<pc xml:id="tunico.9_uIG001pc003" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH001" who="s:H">
+				<w xml:id="tunico.9_uH001w001" lemma="ṛā-" type="particle" lemmaRef="d:raa_002">ṛā</w>
+				<pc xml:id="tunico.9_uH001pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH001w002" rend="glue" lemma="-u" type="pronominalSuffix" lemmaRef="d:u_001">hu</w>
+				<w xml:id="tunico.9_uH001w003" lemma="bāš" type="conjunction" lemmaRef="d:baash_001">bāš</w>
+				<w xml:id="tunico.9_uH001w004" lemma="xallaṣ" type="verb" subtype="II" lemmaRef="d:xallas_001">txallṣū</w>
+				<pc xml:id="tunico.9_uH001pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH001w005" rend="glue" lemma="-i" type="pronominalSuffix" lemmaRef="d:i_001">ni</w>
+				<w xml:id="tunico.9_uH001w006" lemma="āna" type="personalPronoun" lemmaRef="d:aana_001">āna</w>
+				<pc xml:id="tunico.9_uH001pc003" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH001w007" lemma="kull" type="indefinite" lemmaRef="d:kull_001">kull</w>
+				<w xml:id="tunico.9_uH001w008" lemma="žumla" type="noun" lemmaRef="d:zhumla_001">žumla</w>
+				<w xml:id="tunico.9_uH001w009" lemma="xḏā" type="verb" subtype="I" lemmaRef="d:xdhaa_001">nāxu</w>
+				<w xml:id="tunico.9_uH001w010" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">ʕlī</w>
+				<pc xml:id="tunico.9_uH001pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH001w011" rend="glue" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<w xml:id="tunico.9_uH001w012" lemma="ṛā-" type="particle" lemmaRef="d:raa_002">ṛā</w>
+				<pc xml:id="tunico.9_uH001pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH001w013" rend="glue" lemma="-u" type="pronominalSuffix" lemmaRef="d:u_001">hu</w>
+				<pc xml:id="tunico.9_uH001pc006" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID001" who="s:ID">
+				<w xml:id="tunico.9_uID001w001" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāh</w>
+				<pc xml:id="tunico.9_uID001pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH002" who="s:H">
+				<w xml:id="tunico.9_uH002w001" lemma="ʕašṛa|ʕašṛ ālāf" subtype=" " lemmaRef="d:cashr_aalaaf_001 d:cashra_001" type="numeral ">ʕašṛ</w>
+				<w xml:id="tunico.9_uH002w002" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<pc xml:id="tunico.9_uH002pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-2.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG002" who="s:IG">
+				<w xml:id="tunico.9_uIG002w001" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uIG002pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG002w002" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uIG002pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG002w003" rend="glue" lemma="žumla" type="noun" lemmaRef="d:zhumla_001">žumla</w>
+				<w xml:id="tunico.9_uIG002w004">ḅā</w>
+				<w xml:id="tunico.9_uIG002w005">ḅaḅaḅaḅaḅaḅa</w>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-2.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID002" who="s:ID">
+				<w xml:id="tunico.9_uID002w001" lemma="ʕašṛa|ʕašṛ ālāf" subtype=" " lemmaRef="d:cashr_aalaaf_001 d:cashra_001" type="numeral ">ʕašṛ</w>
+				<w xml:id="tunico.9_uID002w002" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<pc xml:id="tunico.9_uID002pc001" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-2.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG003" who="s:IG">
+				<pc xml:id="tunico.9_uIG003pc001">…</pc>
+				<w xml:id="tunico.9_uIG003w001" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">šū</w>
+				<w xml:id="tunico.9_uIG003w002" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">šū</w>
+				<w xml:id="tunico.9_uIG003w003" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">šū</w>
+				<w xml:id="tunico.9_uIG003w004">t</w>
+				<pc xml:id="tunico.9_uIG003pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG003w005" rend="glue" lemma="tūnsi" type="noun" lemmaRef="d:tuunsi_002">twānsa</w>
+				<w xml:id="tunico.9_uIG003w006" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG003pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uIG003w007" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">šū</w>
+				<w xml:id="tunico.9_uIG003w008" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">šū</w>
+				<w xml:id="tunico.9_uIG003w009" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">šū</w>
+				<w xml:id="tunico.9_uIG003w010" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">li</w>
+				<pc xml:id="tunico.9_uIG003pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG003w011" rend="glue" lemma="mhaff" type="passiveParticiple" lemmaRef="d:mhaff_001">mhaffīn</w>
+				<pc xml:id="tunico.9_uIG003pc005" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-3.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uXH001" who="s:XH">
+				<w xml:id="tunico.9_uXH001w001" lemma="yizzi" type="adverb" lemmaRef="d:yizzi_002">yizzi</w>
+				<w xml:id="tunico.9_uXH001w002" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">aʕml</w>
+				<pc xml:id="tunico.9_uXH001pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uXH001w003" rend="glue">ilha</w>
+				<w xml:id="tunico.9_uXH001w004" lemma="sūm" type="noun" lemmaRef="d:suum_001">sūm</w>
+				<w xml:id="tunico.9_uXH001w005" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">aʕml</w>
+				<pc xml:id="tunico.9_uXH001pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uXH001w006" rend="glue">ilha</w>
+				<w xml:id="tunico.9_uXH001w007" lemma="sūm" type="noun" lemmaRef="d:suum_001">sūm</w>
+				<pc xml:id="tunico.9_uXH001pc003" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/XH.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH003" who="s:H">
+				<w xml:id="tunico.9_uH003w001" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāhi</w>
+				<w xml:id="tunico.9_uH003w002" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">taww</w>
+				<w xml:id="tunico.9_uH003w003" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">naʕml</w>
+				<pc xml:id="tunico.9_uH003pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH003w004" rend="glue">ilha</w>
+				<w xml:id="tunico.9_uH003w005" lemma="sūm" type="noun" lemmaRef="d:suum_001">sūm</w>
+				<pc xml:id="tunico.9_uH003pc002" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-3.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID003" who="s:ID">
+				<w xml:id="tunico.9_uID003w001" lemma="xamsa" type="numeral" lemmaRef="d:xamsa_001">xams</w>
+				<w xml:id="tunico.9_uID003w002" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<pc xml:id="tunico.9_uID003pc001" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-3.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH004" who="s:H">
+				<w xml:id="tunico.9_uH004w001" lemma="xamsa" type="numeral" lemmaRef="d:xamsa_001">xams</w>
+				<w xml:id="tunico.9_uH004w002" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<w xml:id="tunico.9_uH004w003" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāhi</w>
+				<pc xml:id="tunico.9_uH004pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-4.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID004" who="s:ID">
+				<w xml:id="tunico.9_uID004w001" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāh</w>
+				<pc xml:id="tunico.9_uID004pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-4.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uXH002" who="s:XH">
+				<w xml:id="tunico.9_uXH002w001" lemma="ṯmānya" type="numeral" lemmaRef="d:tmaanya_001">ṯmany</w>
+				<w xml:id="tunico.9_uXH002w002" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<pc xml:id="tunico.9_uXH002pc001">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/XH-2.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH005" who="s:H">
+				<w xml:id="tunico.9_uH005w001" lemma="ṛbuʕ" type="noun" lemmaRef="d:rbuc_001">ṛbuʕ</w>
+				<w xml:id="tunico.9_uH005w002" lemma="sāʕa" type="noun" lemmaRef="d:saaca_001">sāʕa</w>
+				<w xml:id="tunico.9_uH005w003" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">ʕlā</w>
+				<w xml:id="tunico.9_uH005w004" lemma="xamsa" type="numeral" lemmaRef="d:xamsa_001">xams</w>
+				<w xml:id="tunico.9_uH005w005" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<w xml:id="tunico.9_uH005w006" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uH005pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-5.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID005" who="s:ID">
+				<w xml:id="tunico.9_uID005w001" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāh</w>
+				<pc xml:id="tunico.9_uID005pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-5.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uXH003" who="s:XH">
+				<w xml:id="tunico.9_uXH003w001" lemma="ṯmānya" type="numeral" lemmaRef="d:tmaanya_001">ṯmany</w>
+				<w xml:id="tunico.9_uXH003w002" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<pc xml:id="tunico.9_uXH003pc001" rend="glue">.</pc>
+				<w xml:id="tunico.9_uXH003w003" lemma="xamsa" type="numeral" lemmaRef="d:xamsa_001">xams</w>
+				<w xml:id="tunico.9_uXH003w004" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<w resp="auto" xml:id="tunico.9_uXH003w005" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uXH003pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uXH003w006" rend="glue">zālit</w>
+				<w xml:id="tunico.9_uXH003w007" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">taʕmil</w>
+				<w xml:id="tunico.9_uXH003w008" lemma="ḥāža" type="noun" lemmaRef="d:haazha_001">ḥāža</w>
+				<w xml:id="tunico.9_uXH003w009" lemma="hiyya" type="personalPronoun" lemmaRef="d:hiyya_001">hiyya</w>
+				<pc xml:id="tunico.9_uXH003pc003" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/XH-3.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG004" who="s:IG">
+				<w xml:id="tunico.9_uIG004w001">hāḏu</w>
+				<w xml:id="tunico.9_uIG004w002" lemma="klīyȭ" type="noun" lemmaRef="d:kliiyo_001">klīyūnāt</w>
+				<w xml:id="tunico.9_uIG004w003" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">taww</w>
+				<w xml:id="tunico.9_uIG004w004" xml:lang="fr">frõnsīs</w>
+				<w xml:id="tunico.9_uIG004w005" lemma="kān" type="verb" subtype="I" lemmaRef="d:kaan_001">kānu</w>
+				<w xml:id="tunico.9_uIG004w006">wal</w>
+				<pc xml:id="tunico.9_uIG004pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG004w007" rend="glue" lemma="lā" type="responseParticle" lemmaRef="d:laa_001">lā</w>
+				<pc xml:id="tunico.9_uIG004pc002" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-4.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH006" who="s:H">
+				<w xml:id="tunico.9_uH006w001">mhm</w>
+				<pc xml:id="tunico.9_uH006pc001" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-6.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG005" who="s:IG">
+				<w xml:id="tunico.9_uIG005w001" xml:lang="fr">frõnsīs</w>
+				<w xml:id="tunico.9_uIG005w002" lemma="kān" type="verb" subtype="I" lemmaRef="d:kaan_001">kānu</w>
+				<pc xml:id="tunico.9_uIG005pc001" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-5.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH007" who="s:H">
+				<w xml:id="tunico.9_uH007w001" lemma="hāḏūma" type="pluralDemonstrative" lemmaRef="d:haadhuuma_001">hāḏūma</w>
+				<w xml:id="tunico.9_uH007w002" xml:lang="fr" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">li</w>
+				<pc xml:id="tunico.9_uH007pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w003" rend="glue" lemma="klīyȭ" type="noun" lemmaRef="d:kliiyo_001">klīyūnāt</w>
+				<w xml:id="tunico.9_uH007w004" xml:lang="fr">frõnsīs</w>
+				<pc xml:id="tunico.9_uH007pc002">?</pc>
+				<w xml:id="tunico.9_uH007w005" lemma="tfāhim" type="verb" subtype="VI" lemmaRef="d:tfaahim_001">tfāhimt</w>
+				<w xml:id="tunico.9_uH007w006" lemma="āna" type="personalPronoun" lemmaRef="d:aana_001">āna</w>
+				<w xml:id="tunico.9_uH007w007" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH007pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w008" rend="glue">ayyāh</w>
+				<pc xml:id="tunico.9_uH007pc004" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH007w009" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">qutt</w>
+				<pc xml:id="tunico.9_uH007pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w010" rend="glue">lu</w>
+				<w xml:id="tunico.9_uH007w011" lemma="ḥsib" type="verb" subtype="I" lemmaRef="d:hsib_001">naḥsib</w>
+				<pc xml:id="tunico.9_uH007pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w012" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH007w013" xml:lang="fr">sṏnk</w>
+				<w xml:id="tunico.9_uH007w014" xml:lang="fr">pǟr</w>
+				<w xml:id="tunico.9_uH007w015" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">ᵊʕlā</w>
+				<w xml:id="tunico.9_uH007w016" xml:lang="fr">sṏnkõnt</w>
+				<w xml:id="tunico.9_uH007w017" lemma="dīnāṛ" type="noun" lemmaRef="d:diinaar_001">dīnāṛ</w>
+				<pc xml:id="tunico.9_uH007pc007" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH007w018" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH007pc008" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w019" rend="glue" lemma="āna" type="personalPronoun" lemmaRef="d:aana_001">āna</w>
+				<w xml:id="tunico.9_uH007w020" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">l</w>
+				<pc xml:id="tunico.9_uH007pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w021" rend="glue" lemma="qaṭʕa" type="noun" lemmaRef="d:qatca_001">qaṭʕa</w>
+				<w xml:id="tunico.9_uH007w022" lemma="rbaḥ" type="verb" subtype="I" lemmaRef="d:rbah_001">nirbaḥ</w>
+				<w xml:id="tunico.9_uH007w023" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH007pc010" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH007w024" lemma="fi-" type="preposition" lemmaRef="d:fi_001">fi</w>
+				<pc xml:id="tunico.9_uH007pc011" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w025" rend="glue" lemma="tlāṯa" type="numeral" lemmaRef="d:tlaata_001">tlāṯ</w>
+				<w xml:id="tunico.9_uH007w026" lemma="alf" type="numeral" lemmaRef="d:alf_001">ālāf</w>
+				<w xml:id="tunico.9_uH007w027" lemma="baṛka" type="adverb" lemmaRef="d:barka_001">baṛᵊk</w>
+				<w xml:id="tunico.9_uH007w028" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnitha</w>
+				<w resp="auto" xml:id="tunico.9_uH007w030" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">l</w>
+				<pc xml:id="tunico.9_uH007pc013" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH007w031" xml:lang="fr" rend="glue">ǖn</w>
+				<w xml:id="tunico.9_uH007w032" xml:lang="fr">pǟr</w>
+				<pc xml:id="tunico.9_uH007pc014" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-7.m4a"/>
+			</u>
+			<u xml:id="" who="s:IG">
+				<pc xml:id="tunico.9_uIG006pc001" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-6.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH008" who="s:H">
+				<w xml:id="tunico.9_uH008w001" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnitha</w>
+				<w xml:id="tunico.9_uH008w003" lemma="ḥsib" type="verb" subtype="I" lemmaRef="d:hsib_001">aḥsib</w>
+				<w xml:id="tunico.9_uH008w004" xml:lang="fr">trwā</w>
+				<w xml:id="tunico.9_uH008w005" xml:lang="fr">fwā</w>
+				<w xml:id="tunico.9_uH008w006" xml:lang="fr">sṏnk</w>
+				<w xml:id="tunico.9_uH008w007" lemma="qaddāš" type="interrogative" lemmaRef="d:qaddaash_001">qaddāh</w>
+				<pc xml:id="tunico.9_uH008pc002" rend="glue">?</pc>
+				<w xml:id="tunico.9_uH008w008" xml:lang="fr">kṏnz</w>
+				<pc xml:id="tunico.9_uH008pc003" rend="glue">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-8.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG007" who="s:IG">
+				<w xml:id="tunico.9_uIG007w001" xml:lang="fr">kṏnz</w>
+				<w xml:id="tunico.9_uIG007w002" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG007pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-7.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH009" who="s:H">
+				<pc xml:id="tunico.9_uH009pc001">…</pc>
+				<w xml:id="tunico.9_uH009w001" lemma="dīnāṛ" type="noun" lemmaRef="d:diinaar_001">dīnāṛ</w>
+				<w xml:id="tunico.9_uH009w002" lemma="bāš" type="conjunction" lemmaRef="d:baash_001">bāš</w>
+				<w resp="auto" xml:id="tunico.9_uH009w003" lemma="žā|žā" subtype="I I" lemmaRef="d:zhaa_001 d:zhaa_002" type="verb verb">yžīu</w>
+				<pc xml:id="tunico.9_uH009pc002" rend="glue">?</pc>
+				<w xml:id="tunico.9_uH009w004" lemma="ḥāža" type="noun" lemmaRef="d:haazha_001">ḥāža</w>
+				<w xml:id="tunico.9_uH009w005" lemma="xfīf" type="adjective" lemmaRef="d:xfiif_001">xfīfa</w>
+				<w xml:id="tunico.9_uH009w006" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnāha</w>
+				<w xml:id="tunico.9_uH009w008" lemma="fi-" type="preposition" lemmaRef="d:fi_001">fi</w>
+				<pc xml:id="tunico.9_uH009pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH009w009" rend="glue" lemma="xamsa" type="numeral" lemmaRef="d:xamsa_001">xamsa</w>
+				<w resp="auto" xml:id="tunico.9_uH009w010" lemma="qaṭʕa|qaṭʕa" subtype=" " lemmaRef="d:qatca_001 d:qatca_002" type="noun noun">qṭāyaʕ</w>
+				<w xml:id="tunico.9_uH009w011" lemma="wāḥid" type="indefinite" lemmaRef="d:waahid_002">wāḥid</w>
+				<w xml:id="tunico.9_uH009w012" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāhi</w>
+				<pc xml:id="tunico.9_uH009pc005">?</pc>
+				<w xml:id="tunico.9_uH009w013" lemma="sūm" type="noun" lemmaRef="d:suum_001">sūm</w>
+				<w xml:id="tunico.9_uH009w014" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāhi</w>
+				<w xml:id="tunico.9_uH009w015" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnāha</w>
+				<pc xml:id="tunico.9_uH009pc007" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-9.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG008" who="s:IG">
+				<w xml:id="tunico.9_uIG008w001" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG008pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-8.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH010" who="s:H">
+				<w xml:id="tunico.9_uH010w001" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">qāl</w>
+				<pc xml:id="tunico.9_uH010pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH010w002" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">li</w>
+				<w xml:id="tunico.9_uH010w003">xan</w>
+				<pc xml:id="tunico.9_uH010pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH010w004" rend="glue" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">naʕmil</w>
+				<w xml:id="tunico.9_uH010w005" lemma="dūṛa" type="noun" lemmaRef="d:duura_001">dūṛa</w>
+				<w xml:id="tunico.9_uH010w006" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH010pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH010w007" rend="glue" lemma="ṛžaʕ" type="verb" subtype="I" lemmaRef="d:rzhac_001">naṛžaʕ</w>
+				<pc xml:id="tunico.9_uH010pc004" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH010w008" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">qutt</w>
+				<pc xml:id="tunico.9_uH010pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH010w009" rend="glue">lu</w>
+				<w xml:id="tunico.9_uH010w010" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">aʕmil</w>
+				<w xml:id="tunico.9_uH010w011" lemma="dūṛa" type="noun" lemmaRef="d:duura_001">dūṛa</w>
+				<w xml:id="tunico.9_uH010w012" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH010pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<pc xml:id="tunico.9_uH010pc007" rend="glue">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-10.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG009" who="s:IG">
+				<w xml:id="tunico.9_uIG009w001" lemma="rīgil" type="verb" subtype="IIIī" lemmaRef="d:riigil_001">rīgil</w>
+				<w xml:id="tunico.9_uIG009w002" lemma="amṛ" type="noun" lemmaRef="d:amr_002">umūṛ</w>
+				<pc xml:id="tunico.9_uIG009pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG009w003" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">ik</w>
+				<pc xml:id="tunico.9_uIG009pc002" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-9.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH011" who="s:H">
+				<pc xml:id="tunico.9_uH011pc001">...</pc>
+				<w xml:id="tunico.9_uH011w001" xml:lang="fr">reflešī</w>
+				<w xml:id="tunico.9_uH011w002" xml:lang="fr">byṏ</w>
+				<w xml:id="tunico.9_uH011w003" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH011pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH011w004" rend="glue" lemma="wāḥid" type="indefinite" lemmaRef="d:waahid_002">wāḥid</w>
+				<pc xml:id="tunico.9_uH011pc003" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-11.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID006" who="s:ID">
+				<w xml:id="tunico.9_uID006w001" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uID006pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uID006w002" rend="glue" lemma="sāʕāt" type="adverb" lemmaRef="d:saacaat_001">sāʕāt</w>
+				<w xml:id="tunico.9_uID006w003">tit</w>
+				<pc xml:id="tunico.9_uID006pc002">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-6.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH012" who="s:H">
+				<w xml:id="tunico.9_uH012w001" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">qutt</w>
+				<pc xml:id="tunico.9_uH012pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH012w002" rend="glue">lu</w>
+				<w xml:id="tunico.9_uH012w003" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH012pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH012w004" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">in</w>
+				<pc xml:id="tunico.9_uH012pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH012w005" rend="glue" lemma="nisba" type="noun" lemmaRef="d:nisbit_001">nisba</w>
+				<w xml:id="tunico.9_uH012w006" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">l</w>
+				<pc xml:id="tunico.9_uH012pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH012w007" xml:lang="fr" rend="glue">prī</w>
+				<w xml:id="tunico.9_uH012w008" xml:lang="fr">s</w>
+				<pc xml:id="tunico.9_uH012pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH012w009" xml:lang="fr" rend="glue">ē</w>
+				<w xml:id="tunico.9_uH012w010" xml:lang="fr">mwā</w>
+				<w xml:id="tunico.9_uH012w011" xml:lang="fr">šǟġ</w>
+				<w xml:id="tunico.9_uH012w012" xml:lang="fr">kö</w>
+				<w xml:id="tunico.9_uH012w013" xml:lang="fr">lö</w>
+				<w xml:id="tunico.9_uH012w014" xml:lang="fr">gġatwī</w>
+				<pc xml:id="tunico.9_uH012pc006" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-12.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG010" who="s:IG">
+				<w xml:id="tunico.9_uIG010w001" lemma="dīma" type="adverb" lemmaRef="d:diima_001">dīma</w>
+				<w resp="auto" xml:id="tunico.9_uIG010w002" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<pc xml:id="tunico.9_uIG010pc001" rend="glue">…</pc>
+				<w xml:id="tunico.9_uIG010w003" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG010pc002" rend="glue">…</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-10.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH013" who="s:H">
+				<w xml:id="tunico.9_uH013w001" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">qutt</w>
+				<pc xml:id="tunico.9_uH013pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH013w002" rend="glue">lu</w>
+				<w xml:id="tunico.9_uH013w003" lemma="ṛxīṣ" type="adjective" lemmaRef="d:rxiis_001">aṛxaṣ</w>
+				<w xml:id="tunico.9_uH013w004" lemma="min" type="preposition" lemmaRef="d:min_001">m</w>
+				<pc xml:id="tunico.9_uH013pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH013w005" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH013pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH013w006" rend="glue" lemma="blāš|blāš" subtype=" " lemmaRef="d:blaash_001 d:blaash_002" type="adverb preposition">blāš</w>
+				<pc xml:id="tunico.9_uH013pc004" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH013w007" lemma="ʕṭā" type="verb" subtype="I" lemmaRef="d:ctaa_001">ʕṭīt</w>
+				<pc xml:id="tunico.9_uH013pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH013w008" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">ik</w>
+				<w xml:id="tunico.9_uH013w009" lemma="sūm" type="noun" lemmaRef="d:suum_001">sūm</w>
+				<w xml:id="tunico.9_uH013w010">ʕbāṛa</w>
+				<w xml:id="tunico.9_uH013w011" lemma="ṛxīṣ" type="adjective" lemmaRef="d:rxiis_001">aṛxaṣ</w>
+				<w xml:id="tunico.9_uH013w012" lemma="min" type="preposition" lemmaRef="d:min_001">m</w>
+				<pc xml:id="tunico.9_uH013pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH013w013" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH013pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH013w014" rend="glue" lemma="blāš|blāš" subtype=" " lemmaRef="d:blaash_001 d:blaash_002" type="adverb preposition">blāš</w>
+				<pc xml:id="tunico.9_uH013pc008" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-13.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG011" who="s:IG">
+				<w xml:id="tunico.9_uIG011w001" lemma="hāḏa" type="demonstrativePronoun" lemmaRef="d:haadha_001">hāḏa</w>
+				<w xml:id="tunico.9_uIG011w002" lemma="kull" type="indefinite" lemmaRef="d:kull_001">kull</w>
+				<w xml:id="tunico.9_uIG011w003" lemma="ṣaḥḥa" type="noun" lemmaRef="d:sahha_001">ṣaḥḥa</w>
+				<w xml:id="tunico.9_uIG011w004" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">lī</w>
+				<pc xml:id="tunico.9_uIG011pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG011w005" rend="glue" lemma="-hum" type="pronominalSuffix" lemmaRef="d:hum_001">hum</w>
+				<w xml:id="tunico.9_uIG011w006" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnāha</w>
+				<w xml:id="tunico.9_uIG011w008" lemma="xṛaž" type="verb" subtype="I" lemmaRef="d:xrazh_001">yuxᵊṛžu</w>
+				<w resp="auto" xml:id="tunico.9_uIG011w009" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">l</w>
+				<pc xml:id="tunico.9_uIG011pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG011w010" rend="glue" lemma="baṛṛa" type="adverb" lemmaRef="d:barra_001">baṛṛa</w>
+				<w xml:id="tunico.9_uIG011w011" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnāha</w>
+				<pc xml:id="tunico.9_uIG011pc005" rend="glue">…</pc>
+				<w xml:id="tunico.9_uIG011w013">y</w>
+				<pc xml:id="tunico.9_uIG011pc006" rend="glue">…</pc>
+				<w xml:id="tunico.9_uIG011w014" lemma="ḥabb" type="verb" subtype="I" lemmaRef="d:habb_001">yḥibbu</w>
+				<w xml:id="tunico.9_uIG011w015">yz</w>
+				<pc xml:id="tunico.9_uIG011pc007">…</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-11.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH014" who="s:H">
+				<w xml:id="tunico.9_uH014w001" lemma="žā" type="verb" subtype="I" lemmaRef="d:zhaa_001">yžīu</w>
+				<w xml:id="tunico.9_uH014w002">la</w>
+				<pc xml:id="tunico.9_uH014pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w003" rend="glue" lemma="hnā" type="adverb" lemmaRef="d:hnaa_001">hnā</w>
+				<w xml:id="tunico.9_uH014w004">kīma</w>
+				<w xml:id="tunico.9_uH014w005" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<w xml:id="tunico.9_uH014w006" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH014pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<pc xml:id="tunico.9_uH014pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH014w007" rend="glue" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH014pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w008" xml:lang="fr" rend="glue">vṏ</w>
+				<w resp="auto" xml:id="tunico.9_uH014w009" xml:lang="fr" lemma="orō" type="noun" lemmaRef="d:oroo_001">orō</w>
+				<w xml:id="tunico.9_uH014w010" lemma="walla" type="conjunction" lemmaRef="d:walla_001">walla</w>
+				<w xml:id="tunico.9_uH014w011" lemma="qaddāš" type="interrogative" lemmaRef="d:qaddaash_001">qaddāh</w>
+				<w resp="auto" xml:id="tunico.9_uH014w012" lemma="ǟ" type="interjection" lemmaRef="d:ae_001">ǟ</w>
+				<w xml:id="tunico.9_uH014w013" lemma="fi-" type="preposition" lemmaRef="d:fi_001">fi</w>
+				<pc xml:id="tunico.9_uH014pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w014" rend="glue" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH014pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w015" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH014w016" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w xml:id="tunico.9_uH014w017" lemma="blād" type="noun" lemmaRef="d:blaad_001">blād</w>
+				<w xml:id="tunico.9_uH014w018">kīma</w>
+				<w xml:id="tunico.9_uH014w019" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<w resp="auto" xml:id="tunico.9_uH014w020" lemma="mkaryiz" type="participle" lemmaRef="d:mkaryiz_001">mkaryza</w>
+				<w xml:id="tunico.9_uH014w021" xml:lang="fr">krīz</w>
+				<w xml:id="tunico.9_uH014w022" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH014pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH014w023" rend="glue" lemma="wāḥid|wāḥid|wāḥid" subtype="  " lemmaRef="d:waahid_001 d:waahid_002 d:waahid_003" type="noun indefinite numeral">wāḥid</w>
+				<w xml:id="tunico.9_uH014w024" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH014pc008" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w025" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH014w026">xan</w>
+				<pc xml:id="tunico.9_uH014pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w027" rend="glue" lemma="brik" type="verb" subtype="I" lemmaRef="d:brik_001">nibᵊrku</w>
+				<w xml:id="tunico.9_uH014w028" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">ʕlī</w>
+				<pc xml:id="tunico.9_uH014pc010" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH014w029" rend="glue" lemma="-hum" type="pronominalSuffix" lemmaRef="d:hum_001">hum</w>
+				<w xml:id="tunico.9_uH014w030" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH014pc011" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w031" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH014pc012" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH014w032" rend="glue" lemma="sūm" type="noun" lemmaRef="d:suum_001">aswām</w>
+				<w xml:id="tunico.9_uH014w033" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnāha</w>
+				<w xml:id="tunico.9_uH014w035" lemma="fhim" type="verb" subtype="I" lemmaRef="d:fhim_001">fhimᵊt</w>
+				<pc xml:id="tunico.9_uH014pc014" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-14.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH015" who="s:H">
+				<w xml:id="tunico.9_uH015w001" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH015pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w002" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH015pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w003" rend="glue" lemma="gāwri" type="noun" lemmaRef="d:gaawri_001">gāwri</w>
+				<w xml:id="tunico.9_uH015w004" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">tqul</w>
+				<pc xml:id="tunico.9_uH015pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w005" rend="glue">lu</w>
+				<w xml:id="tunico.9_uH015w006" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">l</w>
+				<pc xml:id="tunico.9_uH015pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w007" rend="glue" lemma="qaṭʕa" type="noun" lemmaRef="d:qatca_001">qaṭʕa</w>
+				<w xml:id="tunico.9_uH015w008" lemma="hāḏīya" type="demonstrativePronoun" lemmaRef="d:haadhiiya_001">hāḏīya</w>
+				<w xml:id="tunico.9_uH015w009" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">tqul</w>
+				<pc xml:id="tunico.9_uH015pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w010" rend="glue">lu</w>
+				<w xml:id="tunico.9_uH015w011" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH015pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w012" rend="glue" lemma="xamsīn" type="numeral" lemmaRef="d:xamsiin_001">xamsīn</w>
+				<w xml:id="tunico.9_uH015w013" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">tqūl</w>
+				<w xml:id="tunico.9_uH015w014" lemma="maṯalan" type="adverb" lemmaRef="d:matalan_001">maṯalan</w>
+				<w xml:id="tunico.9_uH015w015">ᵊb</w>
+				<pc xml:id="tunico.9_uH015pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w016" rend="glue" lemma="tlāṯīn" type="numeral" lemmaRef="d:tlaatiin_001">tlāṯīn</w>
+				<w resp="auto" xml:id="tunico.9_uH015w017" xml:lang="fr" lemma="orō" type="noun" lemmaRef="d:oroo_001">orō</w>
+				<w xml:id="tunico.9_uH015w018" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH015pc008" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w019" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH015w020" lemma="ʕṭā" type="verb" subtype="I" lemmaRef="d:ctaa_001">yaʕṭī</w>
+				<pc xml:id="tunico.9_uH015pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w021" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">k</w>
+				<w xml:id="tunico.9_uH015w022" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w xml:id="tunico.9_uH015w023" lemma="walla" type="conjunction" lemmaRef="d:walla_001">walla</w>
+				<w xml:id="tunico.9_uH015w024" lemma="ʕṭā" type="verb" subtype="I" lemmaRef="d:ctaa_001">yaʕṭī</w>
+				<pc xml:id="tunico.9_uH015pc010" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w025" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">k</w>
+				<w xml:id="tunico.9_uH015w026" lemma="xamsa" type="numeral" lemmaRef="d:xamsa_001">xamsa</w>
+				<w resp="auto" xml:id="tunico.9_uH015w027" xml:lang="fr" lemma="orō" type="noun" lemmaRef="d:oroo_001">orō</w>
+				<pc xml:id="tunico.9_uH015pc011">.</pc>
+				<w resp="auto" xml:id="tunico.9_uH015w028" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">in</w>
+				<pc xml:id="tunico.9_uH015pc012" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH015w029" rend="glue" lemma="nawʕīya" type="noun" lemmaRef="d:nawciiya_001">nawʕīya</w>
+				<w xml:id="tunico.9_uH015w030" lemma="mtāʕ" type="particle" lemmaRef="d:mtaac_001">mtāʕ</w>
+				<w xml:id="tunico.9_uH015w031" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">li</w>
+				<pc xml:id="tunico.9_uH015pc013" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w032" rend="glue" lemma="klīyȭ" type="noun" lemmaRef="d:kliiyo_001">klīyūnāt</w>
+				<w xml:id="tunico.9_uH015w033" lemma="walla" type="verb" subtype="II" lemmaRef="d:walla_002">wallāt</w>
+				<w xml:id="tunico.9_uH015w034" lemma="xāyb" type="adjective" lemmaRef="d:xaayb_001">xāyba</w>
+				<w xml:id="tunico.9_uH015w035" lemma="fi-" type="preposition" lemmaRef="d:fi_001">fi</w>
+				<pc xml:id="tunico.9_uH015pc014" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w036" rend="glue" lemma="sūq" type="noun" lemmaRef="d:suuq_001">sūq</w>
+				<w xml:id="tunico.9_uH015w037" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">l</w>
+				<pc xml:id="tunico.9_uH015pc015" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH015w038" xml:lang="fr" rend="glue">artizānā</w>
+				<w xml:id="tunico.9_uH015w039" lemma="hāḏāya" type="demonstrativePronoun" lemmaRef="d:haadhaaya_001">hāḏāya</w>
+				<pc xml:id="tunico.9_uH015pc016" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-15.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID007" who="s:ID">
+				<w xml:id="tunico.9_uID007w001">mhm</w>
+				<pc xml:id="tunico.9_uID007pc001" rend="glue">...</pc>
+				<w xml:id="tunico.9_uID007w002">mhm</w>
+				<pc xml:id="tunico.9_uID007pc002" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-7.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG012" who="s:IG">
+				<w xml:id="tunico.9_uIG012w001" lemma="smaʕ" type="verb" subtype="I" lemmaRef="d:smac_001">smaʕ</w>
+				<pc xml:id="tunico.9_uIG012pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG012w002" rend="glue" lemma="-na" type="pronominalSuffix" lemmaRef="d:na_001">na</w>
+				<w xml:id="tunico.9_uIG012w003" lemma="b-" type="preposition" lemmaRef="d:b_001">bī</w>
+				<pc xml:id="tunico.9_uIG012pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG012w004" rend="glue" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<w xml:id="tunico.9_uIG012w005" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<w xml:id="tunico.9_uIG012w006">la</w>
+				<pc xml:id="tunico.9_uIG012pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG012w007" rend="glue" lemma="ḥkāya" type="noun" lemmaRef="d:hkaaya_002">ḥkāya</w>
+				<w xml:id="tunico.9_uIG012w008" lemma="hāḏi" type="demonstrativePronoun" lemmaRef="d:haadhi_001">hāḏi</w>
+				<w xml:id="tunico.9_uIG012w009" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG012pc004" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-12.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH016" who="s:H">
+				<w resp="auto" xml:id="tunico.9_uH016w001" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH016pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH016w002" rend="glue" lemma="mā-ʕād-š|ʕād" subtype=" " lemmaRef="d:caada_002 d:maa_caad_sh_001" type=" particle">ʕād</w>
+				<pc xml:id="tunico.9_uH016pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w003" rend="glue">š</w>
+				<w resp="auto" xml:id="tunico.9_uH016w004" lemma="hāk" type="demonstrativePronoun" lemmaRef="d:haak_001">hāk</w>
+				<w xml:id="tunico.9_uH016w005" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH016pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w006" xml:lang="fr" rend="glue">primyǟr</w>
+				<w resp="auto" xml:id="tunico.9_uH016w007" xml:lang="fr" lemma="šwā" type="verb" subtype="I" lemmaRef="d:shwaa_001">šwā</w>
+				<w xml:id="tunico.9_uH016w008">kīma</w>
+				<w xml:id="tunico.9_uH016w009" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<w xml:id="tunico.9_uH016w010" lemma="ʕahd" type="noun" lemmaRef="d:cahd_001">ʕahd</w>
+				<w xml:id="tunico.9_uH016w011">bin</w>
+				<w xml:id="tunico.9_uH016w012">ʕalī</w>
+				<w xml:id="tunico.9_uH016w013" lemma="kān" type="verb" subtype="I" lemmaRef="d:kaan_001">kānit</w>
+				<pc xml:id="tunico.9_uH016pc004" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH016w014" lemma="kān" type="verb" subtype="I" lemmaRef="d:kaan_001">kānit</w>
+				<w xml:id="tunico.9_uH016w015" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">li</w>
+				<pc xml:id="tunico.9_uH016pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w016" rend="glue" lemma="klīyȭ" type="noun" lemmaRef="d:kliiyo_001">klīyūnāt</w>
+				<w xml:id="tunico.9_uH016w017" resp="auto" lemma="il-" lemmaRef="d:il_001" type="definiteArticle">iṣ</w>
+				<pc xml:id="tunico.9_uH016pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w018" rend="glue" lemma="ṣḥīḥ" type="adjective" lemmaRef="d:shiih_001">ṣḥāḥ</w>
+				<w xml:id="tunico.9_uH016w019" lemma="fhim" type="verb" subtype="I" lemmaRef="d:fhim_001">fhimᵊt</w>
+				<pc xml:id="tunico.9_uH016pc007" rend="glue">?</pc>
+				<w xml:id="tunico.9_uH016w020" lemma="žāb" type="verb" subtype="I" lemmaRef="d:zhaab_001">nžību</w>
+				<w resp="auto" xml:id="tunico.9_uH016w021" lemma="hāk" type="demonstrativePronoun" lemmaRef="d:haak_001">hāk</w>
+				<w xml:id="tunico.9_uH016w022" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH016pc008" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w023" xml:lang="fr" rend="glue">primyǟr</w>
+				<w resp="auto" xml:id="tunico.9_uH016w024" xml:lang="fr" lemma="šwā" type="verb" subtype="I" lemmaRef="d:shwaa_001">šwā</w>
+				<w xml:id="tunico.9_uH016w025">la</w>
+				<pc xml:id="tunico.9_uH016pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w026" rend="glue" lemma="ʕabd" type="noun" lemmaRef="d:cabd_001">ʕbād</w>
+				<w xml:id="tunico.9_uH016w027" lemma="lā" type="responseParticle" lemmaRef="d:laa_001">lā</w>
+				<w resp="auto" xml:id="tunico.9_uH016w028" lemma="bās|bās" subtype="I " lemmaRef="d:baas_001 d:baas_002" type="verb noun">bās</w>
+				<w xml:id="tunico.9_uH016w029" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">ᵊʕlī</w>
+				<pc xml:id="tunico.9_uH016pc010" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH016w030" rend="glue" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<pc xml:id="tunico.9_uH016pc011" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH016w031" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w xml:id="tunico.9_uH016w032">kīma</w>
+				<w xml:id="tunico.9_uH016w033" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<pc xml:id="tunico.9_uH016pc012" rend="glue">…</pc>
+				<w resp="auto" xml:id="tunico.9_uH016w034" lemma="ǟ" type="interjection" lemmaRef="d:ae_001">ǟ</w>
+				<pc xml:id="tunico.9_uH016pc013" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH016w035">a</w>
+				<pc xml:id="tunico.9_uH016pc014" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH016w036" lemma="ʕmal" type="verb" subtype="I" lemmaRef="d:cmal_001">yaʕmlū</w>
+				<pc xml:id="tunico.9_uH016pc015" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w037" rend="glue">lhum</w>
+				<w resp="auto" xml:id="tunico.9_uH016w038" lemma="hāk" type="demonstrativePronoun" lemmaRef="d:haak_001">hāk</w>
+				<w resp="auto" xml:id="tunico.9_uH016w039" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">iṛ</w>
+				<pc xml:id="tunico.9_uH016pc016" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w040" rend="glue" lemma="riḥla" type="noun" lemmaRef="d:rihla_001">ṛaḥalāt</w>
+				<w xml:id="tunico.9_uH016w041" xml:lang="fr">trwā</w>
+				<w xml:id="tunico.9_uH016w042" xml:lang="fr">sȭ</w>
+				<w resp="auto" xml:id="tunico.9_uH016w043" xml:lang="fr" lemma="orō" type="noun" lemmaRef="d:oroo_001">orō</w>
+				<w xml:id="tunico.9_uH016w044" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnāha</w>
+				<w xml:id="tunico.9_uH016w046" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH016pc018" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH016w047" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">iṭ</w>
+				<pc xml:id="tunico.9_uH016pc019" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w048" rend="glue" lemma="ṭayyāṛa" type="noun" lemmaRef="d:tayyaara_001">ṭayyāṛa</w>
+				<w xml:id="tunico.9_uH016w049" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH016pc020" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w050" rend="glue" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH016pc021" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w051" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH016pc022" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w052" rend="glue" lemma="ūtīl" type="noun" lemmaRef="d:uutiil_001">ūtīl</w>
+				<w xml:id="tunico.9_uH016w053">ᵊb</w>
+				<pc xml:id="tunico.9_uH016pc023" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH016w054" rend="glue" lemma="kull" type="indefinite" lemmaRef="d:kull_001">kull</w>
+				<w xml:id="tunico.9_uH016w055" lemma="šayy|kull šayy" subtype=" " lemmaRef="d:kull_shayy_001 d:shayy_002" type="noun ">šayy</w>
+				<pc xml:id="tunico.9_uH016pc024" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-16.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID008" who="s:ID">
+				<w xml:id="tunico.9_uID008w001">mhm</w>
+				<pc xml:id="tunico.9_uID008pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-8.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH017" who="s:H">
+				<w xml:id="tunico.9_uH017w001" lemma="fhim" type="verb" subtype="I" lemmaRef="d:fhim_001">fhimᵊt</w>
+				<pc xml:id="tunico.9_uH017pc001" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-17.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID009" who="s:ID">
+				<w xml:id="tunico.9_uID009w001">mhm</w>
+				<pc xml:id="tunico.9_uID009pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-9.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH018" who="s:H">
+				<w xml:id="tunico.9_uH018w001" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnitha</w>
+				<w resp="auto" xml:id="tunico.9_uH018w003" lemma="min" type="preposition" lemmaRef="d:min_001">m</w>
+				<pc xml:id="tunico.9_uH018pc002" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH018w004">y</w>
+				<pc xml:id="tunico.9_uH018pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH018w005" lemma="ḥass" type="verb" subtype="I" lemmaRef="d:hass_001">tḥissu</w>
+				<w xml:id="tunico.9_uH018w006" lemma="huwwa" type="personalPronoun" lemmaRef="d:huwwa_001">huwwa</w>
+				<w xml:id="tunico.9_uH018w007" lemma="akṯarīya" type="noun" lemmaRef="d:aktariiya_001">akṯarīt</w>
+				<pc xml:id="tunico.9_uH018pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH018w008" rend="glue" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<w resp="auto" xml:id="tunico.9_uH018w009" lemma="min" type="preposition" lemmaRef="d:min_001">m</w>
+				<pc xml:id="tunico.9_uH018pc005" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH018w010" lemma="rābaḥ" type="activeParticiple" lemmaRef="d:raabah_001">rābaḥ</w>
+				<w xml:id="tunico.9_uH018w011" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH018pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH018w012" rend="glue">la</w>
+				<pc xml:id="tunico.9_uH018pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH018w013" rend="glue" lemma="ḥkāya" type="noun" lemmaRef="d:hkaaya_002">ḥkāya</w>
+				<w xml:id="tunico.9_uH018w014" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnitha</w>
+				<w xml:id="tunico.9_uH018w016">s</w>
+				<pc xml:id="tunico.9_uH018pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH018w017" rend="glue" lemma="sāyaḥ" type="noun" lemmaRef="d:saayah_001">sāyaḥ</w>
+				<pc xml:id="tunico.9_uH018pc010" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-18.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID010" who="s:ID">
+				<w xml:id="tunico.9_uID010w001">mhm</w>
+				<pc xml:id="tunico.9_uID010pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-10.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG013" who="s:IG">
+				<w xml:id="tunico.9_uIG013w001">mhm</w>
+				<pc xml:id="tunico.9_uIG013pc001" rend="glue">.</pc>
+				<w xml:id="tunico.9_uIG013w002" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG013pc002" rend="glue">.</pc>
+				<w xml:id="tunico.9_uIG013w003" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG013pc003" rend="glue">.</pc>
+				<w xml:id="tunico.9_uIG013w004" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG013pc004" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-13.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH019" who="s:H">
+				<w xml:id="tunico.9_uH019w001" lemma="fhim" type="verb" subtype="I" lemmaRef="d:fhim_001">fhimᵊt</w>
+				<pc xml:id="tunico.9_uH019pc001" rend="glue">?</pc>
+				<w xml:id="tunico.9_uH019w002" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">li</w>
+				<pc xml:id="tunico.9_uH019pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH019w003" rend="glue" lemma="blād" type="noun" lemmaRef="d:blaad_001">blād</w>
+				<w xml:id="tunico.9_uH019w004" lemma="ḥass" type="verb" subtype="I" lemmaRef="d:hass_001">tḥiss</w>
+				<pc xml:id="tunico.9_uH019pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH019w005" rend="glue" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<w xml:id="tunico.9_uH019w006">muš</w>
+				<w resp="auto" xml:id="tunico.9_uH019w007" lemma="min" type="preposition" lemmaRef="d:min_001">m</w>
+				<pc xml:id="tunico.9_uH019pc004" rend="glue">…</pc>
+				<w resp="auto" xml:id="tunico.9_uH019w008" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH019pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH019w009" rend="glue" lemma="xḏā" type="verb" subtype="I" lemmaRef="d:xdhaa_001">xḏāt</w>
+				<w xml:id="tunico.9_uH019w010" lemma="min" type="preposition" lemmaRef="d:min_001">minn</w>
+				<pc xml:id="tunico.9_uH019pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH019w011" rend="glue" lemma="-u" type="pronominalSuffix" lemmaRef="d:u_001">u</w>
+				<w xml:id="tunico.9_uH019w012" lemma="šayy" type="indefinite" lemmaRef="d:shayy_001">šayy</w>
+				<w xml:id="tunico.9_uH019w013" lemma="ʕṛaf" type="verb" subtype="I" lemmaRef="d:craf_001">ʕṛafᵊt</w>
+				<pc xml:id="tunico.9_uH019pc007" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH019w014" lemma="maʕnitha" type="adverb" lemmaRef="d:macnitha_001">maʕnitha</w>
+				<w xml:id="tunico.9_uH019w016" lemma="ḥatta" type="adverb" lemmaRef="d:hatta_001">ḥatta</w>
+				<w xml:id="tunico.9_uH019w017" lemma="bāš" type="conjunction" lemmaRef="d:baash_001">bāš</w>
+				<w xml:id="tunico.9_uH019w018" lemma="xṛaž" type="verb" subtype="I" lemmaRef="d:xrazh_001">yuxṛuž</w>
+				<w xml:id="tunico.9_uH019w019" lemma="l-" type="preposition" lemmaRef="d:l_001">ᵊl</w>
+				<pc xml:id="tunico.9_uH019pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH019w020" rend="glue" lemma="baṛṛa" type="adverb" lemmaRef="d:barra_001">baṛṛa</w>
+				<w xml:id="tunico.9_uH019w021" lemma="walla" type="conjunction" lemmaRef="d:walla_001">walla</w>
+				<w xml:id="tunico.9_uH019w022" lemma="ḥāža" type="noun" lemmaRef="d:haazha_001">ḥāža</w>
+				<w xml:id="tunico.9_uH019w023" lemma="lā" type="responseParticle" lemmaRef="d:laa_001">lā</w>
+				<pc xml:id="tunico.9_uH019pc010" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-19.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uX001" who="s:XH">
+				<w xml:id="tunico.9_uX001w001" lemma="tfaḏ̣ḏ̣al" subtype="V" lemmaRef="d:tfadhdhal_001" type="verb">tfaḏ̣ḏ̣al</w>
+				<w xml:id="tunico.9_uX001w002" lemma="ṃaḍāṃ" type="noun" lemmaRef="d:madaam_001">ṃāḍāṃ</w>
+				<w xml:id="tunico.9_uX001w003" lemma="mwāṣil" type="participle" lemmaRef="d:mwaasil_001">maṛᵊḥbā</w>
+				<pc xml:id="tunico.9_uX001pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/XH-4.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH020" who="s:H">
+				<w xml:id="tunico.9_uH020w001">hāy</w>
+				<w xml:id="tunico.9_uH020w002" lemma="žā" type="verb" subtype="I" lemmaRef="d:zhaa_001">yžī</w>
+				<w xml:id="tunico.9_uH020w003" lemma="klā" type="verb" subtype="I" lemmaRef="d:klaa_001">yākil</w>
+				<w xml:id="tunico.9_uH020w004" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH020pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w005" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH020pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w006" rend="glue" lemma="ūtīl" type="noun" lemmaRef="d:uutiil_001">ūtīl</w>
+				<w xml:id="tunico.9_uH020w007" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH020pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w008" rend="glue" lemma="qʕad" type="verb" subtype="I" lemmaRef="d:qcad_001">yuqʕud</w>
+				<w xml:id="tunico.9_uH020w009" lemma="bḥaṛ" type="noun" lemmaRef="d:bhar_001">ᵊbḥaṛ</w>
+				<w xml:id="tunico.9_uH020w010" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH020pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH020w011" xml:lang="fr" rend="glue" lemma="pīsīn" type="noun" lemmaRef="d:piisiin_001">pissīn</w>
+				<w xml:id="tunico.9_uH020w012" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH020pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH020w013" rend="glue" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH020pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w014" rend="glue" lemma="xṛaž" type="verb" subtype="I" lemmaRef="d:xrazh_001">yuxṛuž</w>
+				<pc xml:id="tunico.9_uH020pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w015" rend="glue">š</w>
+				<pc xml:id="tunico.9_uH020pc008" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH020w016" lemma="ʕadda" type="verb" subtype="II" lemmaRef="d:cadda_001">yʕaddi</w>
+				<w resp="auto" xml:id="tunico.9_uH020w017" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">iž</w>
+				<pc xml:id="tunico.9_uH020pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w018" rend="glue" lemma="žimʕa" type="noun" lemmaRef="d:zhimca_001">žimʕa</w>
+				<w xml:id="tunico.9_uH020w019" lemma="mtāʕ" type="particle" lemmaRef="d:mtaac_001">mtāʕ</w>
+				<pc xml:id="tunico.9_uH020pc010" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH020w020" rend="glue" lemma="-u" type="pronominalSuffix" lemmaRef="d:u_001">u</w>
+				<w xml:id="tunico.9_uH020w021" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH020pc011" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH020w022" rend="glue" lemma="ṛawwaḥ" type="verb" subtype="II" lemmaRef="d:rawwah_001">yṛawwaḥ</w>
+				<pc xml:id="tunico.9_uH020pc012" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-20.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG014" who="s:IG">
+				<w xml:id="tunico.9_uIG014w001" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uIG014pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG014w002" rend="glue" lemma="baʕd" type="adverb" lemmaRef="d:bacd_002">baʕd</w>
+				<w xml:id="tunico.9_uIG014w003">hā</w>
+				<pc xml:id="tunico.9_uIG014pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG014w004" rend="glue" lemma="-i" type="pronominalSuffix" lemmaRef="d:i_001">ni</w>
+				<pc xml:id="tunico.9_uIG014pc003">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-14.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH021" who="s:H">
+				<w resp="auto" xml:id="tunico.9_uH021w001" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH021pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH021w002" rend="glue" lemma="mā-ʕād-š|ʕād" subtype=" " lemmaRef="d:caada_002 d:maa_caad_sh_001" type=" particle">ʕād</w>
+				<pc xml:id="tunico.9_uH021pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH021w003" rend="glue">š</w>
+				<w xml:id="tunico.9_uH021w004" lemma="walla" type="verb" subtype="II" lemmaRef="d:walla_002">wallāu</w>
+				<pc xml:id="tunico.9_uH021pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH021w005">wall</w>
+				<pc xml:id="tunico.9_uH021pc004">…</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-21.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG015" who="s:IG">
+				<pc xml:id="tunico.9_uIG015pc001">…</pc>
+				<w xml:id="tunico.9_uIG015w001">hā</w>
+				<pc xml:id="tunico.9_uIG015pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG015w002" rend="glue" lemma="-i" type="pronominalSuffix" lemmaRef="d:i_001">ni</w>
+				<w xml:id="tunico.9_uIG015w003" lemma="mšā" type="verb" subtype="I" lemmaRef="d:mshaa_001">mšīt</w>
+				<w xml:id="tunico.9_uIG015w004" lemma="l-" type="preposition" lemmaRef="d:l_001">ᵊl</w>
+				<pc xml:id="tunico.9_uIG015pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG015w005" rend="glue" lemma="tūnis" type="toponym" lemmaRef="d:tuunis_001">tūnis</w>
+				<pc xml:id="tunico.9_uIG015pc004">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-15.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH022" who="s:H">
+				<pc xml:id="tunico.9_uH022pc001">…</pc>
+				<w xml:id="tunico.9_uH022w001" lemma="walla" type="verb" subtype="II" lemmaRef="d:walla_002">wallāu</w>
+				<pc xml:id="tunico.9_uH022pc002" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH022w002" lemma="ʕṭā" type="verb" subtype="I" lemmaRef="d:ctaa_001">yaʕṭ</w>
+				<pc xml:id="tunico.9_uH022pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH022w003" rend="glue">īk</w>
+				<w resp="auto" xml:id="tunico.9_uH022w004" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">iṣ</w>
+				<pc xml:id="tunico.9_uH022pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH022w005" rend="glue" lemma="ṣaḥḥa" type="noun" lemmaRef="d:sahha_001">ṣaḥḥa</w>
+				<pc xml:id="tunico.9_uH022pc005" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH022w006" lemma="žā" type="verb" subtype="I" lemmaRef="d:zhaa_001">yžīu</w>
+				<w xml:id="tunico.9_uH022w007" xml:lang="fr">kalitē</w>
+				<w xml:id="tunico.9_uH022w008" lemma="xāyb" type="adjective" lemmaRef="d:xaayb_001">xāyba</w>
+				<w xml:id="tunico.9_uH022w009" lemma="walla" type="verb" subtype="II" lemmaRef="d:walla_002">wallāu</w>
+				<w xml:id="tunico.9_uH022w010" lemma="zāda" type="adverb" lemmaRef="d:zaada_001">zāda</w>
+				<w xml:id="tunico.9_uH022w011" lemma="xāyf" type="activeParticiple" lemmaRef="d:xaayf_001">xāyfīn</w>
+				<w xml:id="tunico.9_uH022w012" lemma="baṛša" type="adverb" lemmaRef="d:barsha_001">baṛša</w>
+				<pc xml:id="tunico.9_uH022pc006" rend="glue">.</pc>
+				<w resp="auto" xml:id="tunico.9_uH022w013" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH022pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH022w014" rend="glue" lemma="mā-ʕād-š|ʕād" subtype=" " lemmaRef="d:caada_002 d:maa_caad_sh_001" type=" particle">ʕād</w>
+				<pc xml:id="tunico.9_uH022pc008" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH022w015" rend="glue">š</w>
+				<w xml:id="tunico.9_uH022w016" lemma="ḥabb" type="verb" subtype="I" lemmaRef="d:habb_001">yḥibbu</w>
+				<w xml:id="tunico.9_uH022w017" lemma="maṯalan" type="adverb" lemmaRef="d:matalan_001">maṯalan</w>
+				<w xml:id="tunico.9_uH022w018">kīma</w>
+				<w xml:id="tunico.9_uH022w019" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<w resp="auto" xml:id="tunico.9_uH022w020" lemma="illi|illi" subtype=" " lemmaRef="d:illi_001 d:illi_002" type="conjunction relativePronoun">lli</w>
+				<w xml:id="tunico.9_uH022w021" lemma="ʕand" type="preposition" lemmaRef="d:cand_001">ʕan</w>
+				<pc xml:id="tunico.9_uH022pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH022w022" rend="glue" lemma="-na" type="pronominalSuffix" lemmaRef="d:na_001">na</w>
+				<w xml:id="tunico.9_uH022w023" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH022pc010" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH022w024" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH022pc011" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH022w025" rend="glue" lemma="ḥammām" type="noun" lemmaRef="d:hammaam_001">ḥammāmāt</w>
+				<w xml:id="tunico.9_uH022w026" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">taww</w>
+				<w xml:id="tunico.9_uH022w027" lemma="mistānis" type="participle" lemmaRef="d:mistaanis_001">mistānsīn</w>
+				<w resp="auto" xml:id="tunico.9_uH022w028" lemma="ǟ" type="interjection" lemmaRef="d:ae_001">ǟ</w>
+				<w xml:id="tunico.9_uH022w029" lemma="kull" type="indefinite" lemmaRef="d:kull_001">kull</w>
+				<w xml:id="tunico.9_uH022w030" lemma="žimʕa" type="noun" lemmaRef="d:zhimca_001">žimʕa</w>
+				<w xml:id="tunico.9_uH022w031" lemma="nhāṛ" type="noun" lemmaRef="d:nhaar_001">nhāṛ</w>
+				<w resp="auto" xml:id="tunico.9_uH022w032" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">iž</w>
+				<pc xml:id="tunico.9_uH022pc012" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH022w033" rend="glue" lemma="žimʕa" type="noun" lemmaRef="d:zhimca_001">žimʕa</w>
+				<w xml:id="tunico.9_uH022w034">la</w>
+				<pc xml:id="tunico.9_uH022pc013" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH022w035" rend="glue" lemma="hnā" type="adverb" lemmaRef="d:hnaa_001">hnā</w>
+				<w xml:id="tunico.9_uH022w036" lemma="tʕabba" type="verb" subtype="V" lemmaRef="d:tcabba_001">titʕabba</w>
+				<pc xml:id="tunico.9_uH022pc014" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-22.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG016" who="s:IG">
+				<w xml:id="tunico.9_uIG016w001" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG016pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-16.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH023" who="s:H">
+				<w xml:id="tunico.9_uH023w001" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH023pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH023w002" rend="glue" lemma="klīyȭ" type="noun" lemmaRef="d:kliiyo_001">klīyūnāt</w>
+				<w xml:id="tunico.9_uH023w003" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH023pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH023w004" rend="glue">ḥ</w>
+				<pc xml:id="tunico.9_uH023pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH023w005" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w resp="auto" xml:id="tunico.9_uH023w006" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH023pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH023w007" rend="glue" lemma="mā-ʕād-š|ʕād" subtype=" " lemmaRef="d:caada_002 d:maa_caad_sh_001" type=" particle">ʕād</w>
+				<pc xml:id="tunico.9_uH023pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH023w008" rend="glue">ᵊš</w>
+				<w xml:id="tunico.9_uH023w009" lemma="žimla" type="noun" lemmaRef="d:zhimla_001">žimla</w>
+				<pc xml:id="tunico.9_uH023pc006" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH023w010" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w xml:id="tunico.9_uH023w011" lemma="žāb" type="verb" subtype="I" lemmaRef="d:zhaab_001">yžību</w>
+				<pc xml:id="tunico.9_uH023pc007">?</pc>
+				<w xml:id="tunico.9_uH023w012">kīma</w>
+				<w xml:id="tunico.9_uH023w013" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<w xml:id="tunico.9_uH023w014" lemma="mtāʕ" type="particle" lemmaRef="d:mtaac_001">mtāʕ</w>
+				<pc xml:id="tunico.9_uH023pc008" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH023w015" lemma="hakka" type="adverb" lemmaRef="d:hakka_001">hakka</w>
+				<w xml:id="tunico.9_uH023w016" lemma="mtāʕ" type="particle" lemmaRef="d:mtaac_001">mtāʕ</w>
+				<w xml:id="tunico.9_uH023w017" lemma="gammaṛt" type="toponym" lemmaRef="d:gammart_001">gammaṛt</w>
+				<w xml:id="tunico.9_uH023w018">la</w>
+				<pc xml:id="tunico.9_uH023pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH023w019" rend="glue" lemma="qrīb" type="adjective" lemmaRef="d:qriib_001">qṛāb</w>
+				<w xml:id="tunico.9_uH023w020" lemma="hāḏūma" type="pluralDemonstrative" lemmaRef="d:haadhuuma_001">hāḏūma</w>
+				<w xml:id="tunico.9_uH023w021" lemma="fhim" type="verb" subtype="I" lemmaRef="d:fhim_001">fhimᵊt</w>
+				<pc xml:id="tunico.9_uH023pc010" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-23.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG017" who="s:IG">
+				<w xml:id="tunico.9_uIG017w001" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<w xml:id="tunico.9_uIG017w002" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<w xml:id="tunico.9_uIG017w003" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG017pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-17.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH024" who="s:H">
+				<w resp="auto" xml:id="tunico.9_uH024w001" lemma="baʕda" type="adverb" lemmaRef="d:bacda_001">baʕda</w>
+				<w xml:id="tunico.9_uH024w002">muš</w>
+				<w resp="auto" xml:id="tunico.9_uH024w003" lemma="ǟ" type="interjection" lemmaRef="d:ae_001">ǟ</w>
+				<w resp="auto" xml:id="tunico.9_uH024w004" lemma="min" type="preposition" lemmaRef="d:min_001">m</w>
+				<pc xml:id="tunico.9_uH024pc001" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH024w005" lemma="qbal" type="adverb" lemmaRef="d:qbal_002">qbal</w>
+				<w xml:id="tunico.9_uH024w006" lemma="kān" type="verb" subtype="I" lemmaRef="d:kaan_001">kānu</w>
+				<w xml:id="tunico.9_uH024w007" lemma="maṯalan" type="adverb" lemmaRef="d:matalan_001">maṯalan</w>
+				<w xml:id="tunico.9_uH024w008" lemma="žāb" type="verb" subtype="I" lemmaRef="d:zhaab_001">yžību</w>
+				<w xml:id="tunico.9_uH024w009" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH024pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH024w010" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH024pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH024w011" rend="glue" lemma="ʕišrīn" type="numeral" lemmaRef="d:cishriin_001">ʕišrīn</w>
+				<w xml:id="tunico.9_uH024w012" lemma="kāṛ" type="noun" lemmaRef="d:kaar_001">kāṛ</w>
+				<pc xml:id="tunico.9_uH024pc004" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH024w013" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">taww</w>
+				<w xml:id="tunico.9_uH024w014">ᵊb</w>
+				<pc xml:id="tunico.9_uH024pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH024w015" xml:lang="fr" rend="glue">minibǖs</w>
+				<w xml:id="tunico.9_uH024w016" lemma="zġayyir" type="adjective" subtype="diminutive" lemmaRef="d:zghayyir_001">ᵊzġayyra</w>
+				<pc xml:id="tunico.9_uH024pc006" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH024w017" lemma="hazz" type="verb" subtype="I" lemmaRef="d:hazz_001">thizz</w>
+				<w xml:id="tunico.9_uH024w018" lemma="ʕišrīn" type="numeral" lemmaRef="d:cishriin_001">ʕišrīn</w>
+				<w xml:id="tunico.9_uH024w019" lemma="wāḥid" type="numeral" lemmaRef="d:waahid_001">wāḥid</w>
+				<w xml:id="tunico.9_uH024w020" lemma="tlāṯīn" type="numeral" lemmaRef="d:tlaatiin_001">tlāṯīn</w>
+				<w xml:id="tunico.9_uH024w021" lemma="wāḥid" type="numeral" lemmaRef="d:waahid_001">wāḥid</w>
+				<pc xml:id="tunico.9_uH024pc007" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-24.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uID011" who="s:ID">
+				<w xml:id="tunico.9_uID011w001">mhm</w>
+				<pc xml:id="tunico.9_uID011pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/ID-11.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH025" who="s:H">
+				<w xml:id="tunico.9_uH025w001" lemma="hāḏi" type="demonstrativePronoun" lemmaRef="d:haadhi_001">hāḏi</w>
+				<w xml:id="tunico.9_uH025w002">kīma</w>
+				<w xml:id="tunico.9_uH025w003" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">nqūlu</w>
+				<w xml:id="tunico.9_uH025w004" lemma="ʕahd" type="noun" lemmaRef="d:cahd_001">ʕahd</w>
+				<w xml:id="tunico.9_uH025w005">bin</w>
+				<w xml:id="tunico.9_uH025w006">ʕalī</w>
+				<w xml:id="tunico.9_uH025w007" lemma="kān" type="verb" subtype="I" lemmaRef="d:kaan_001">kānit</w>
+				<w resp="auto" xml:id="tunico.9_uH025w008" lemma="ǟ" type="interjection" lemmaRef="d:ae_001">ǟ</w>
+				<pc xml:id="tunico.9_uH025pc001" rend="glue">...</pc>
+				<w xml:id="tunico.9_uH025w009" lemma="xidma" type="noun" lemmaRef="d:xidma_001">xidma</w>
+				<w xml:id="tunico.9_uH025w010" lemma="ṭayyāṛa" type="adjective" lemmaRef="d:tayyaara_002">ṭayyāṛa</w>
+				<w xml:id="tunico.9_uH025w011" lemma="ṭayyāṛa" type="adjective" lemmaRef="d:tayyaara_002">ṭayyāṛa</w>
+				<w xml:id="tunico.9_uH025w012" lemma="ṭayyāṛa" type="adjective" lemmaRef="d:tayyaara_002">ṭayyāṛa</w>
+				<w xml:id="tunico.9_uH025w013" lemma="ʕlā" type="preposition" lemmaRef="d:claa_001">ʕa</w>
+				<pc xml:id="tunico.9_uH025pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH025w014" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">ll</w>
+				<pc xml:id="tunico.9_uH025pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH025w015" rend="glue" lemma="ixxir|āxir" subtype=" " lemmaRef="d:aaxir_001 d:ixxir_001" type="adjective noun">ixxir</w>
+				<pc xml:id="tunico.9_uH025pc004" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH025w016" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">tqūl</w>
+				<w xml:id="tunico.9_uH025w017" lemma="ʕṛaf" type="verb" subtype="I" lemmaRef="d:craf_001">ʕṛaft</w>
+				<w xml:id="tunico.9_uH025w018">bin</w>
+				<w xml:id="tunico.9_uH025w019">ʕalī</w>
+				<w xml:id="tunico.9_uH025w020" lemma="xṭāṛ" type="verb" subtype="VIII" lemmaRef="d:xtaar_001">yixṭāṛ</w>
+				<w xml:id="tunico.9_uH025w021" lemma="fi-" type="preposition" lemmaRef="d:fi_001">fī</w>
+				<pc xml:id="tunico.9_uH025pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH025w022" rend="glue" lemma="-hum" type="pronominalSuffix" lemmaRef="d:hum_001">hum</w>
+				<w xml:id="tunico.9_uH025w023" lemma="kaʕba" type="noun" lemmaRef="d:kacba_001">kaʕba</w>
+				<w xml:id="tunico.9_uH025w024" lemma="kaʕba" type="noun" lemmaRef="d:kacba_001">kaʕba</w>
+				<w xml:id="tunico.9_uH025w025" lemma="sāyaḥ" type="noun" lemmaRef="d:saayah_001">suwwāḥ</w>
+				<pc xml:id="tunico.9_uH025pc006" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH025w026" lemma="fhim" type="verb" subtype="I" lemmaRef="d:fhim_001">fhimᵊt</w>
+				<pc xml:id="tunico.9_uH025pc007" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-25.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG018" who="s:IG">
+				<w xml:id="tunico.9_uIG018w001" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uIG018pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-18.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH026" who="s:H">
+				<w resp="auto" xml:id="tunico.9_uH026w001" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uH026pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH026w002" rend="glue" lemma="mā-ʕād-š|ʕād" subtype=" " lemmaRef="d:caada_002 d:maa_caad_sh_001" type=" particle">ʕād</w>
+				<pc xml:id="tunico.9_uH026pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w003" rend="glue">š</w>
+				<w resp="auto" xml:id="tunico.9_uH026w004" lemma="ǟ" type="interjection" lemmaRef="d:ae_001">ǟ</w>
+				<pc xml:id="tunico.9_uH026pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH026w005">kīma</w>
+				<w xml:id="tunico.9_uH026w006" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w xml:id="tunico.9_uH026w007" lemma="tawwa" type="adverb" lemmaRef="d:tawwa_001">tawwa</w>
+				<w xml:id="tunico.9_uH026w008" lemma="žāb" type="verb" subtype="I" lemmaRef="d:zhaab_001">yžību</w>
+				<w xml:id="tunico.9_uH026w009" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH026pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w010" rend="glue" resp="auto" lemma="il-" lemmaRef="d:il_001" type="definiteArticle">ir</w>
+				<pc xml:id="tunico.9_uH026pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w011" rend="glue">rūs</w>
+				<w xml:id="tunico.9_uH026w012" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH026pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w013" rend="glue" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH026pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w014" rend="glue" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uH026pc008" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w015" rend="glue">būlūn</w>
+				<w xml:id="tunico.9_uH026w016" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH026pc009" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w017" rend="glue" lemma="fi-" type="preposition" lemmaRef="d:fi_001">f</w>
+				<pc xml:id="tunico.9_uH026pc010" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w018" rend="glue" resp="auto" lemma="il-" lemmaRef="d:il_001" type="definiteArticle">it</w>
+				<pc xml:id="tunico.9_uH026pc011" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w019" rend="glue">tšāk</w>
+				<pc xml:id="tunico.9_uH026pc012" rend="glue">.</pc>
+				<w xml:id="tunico.9_uH026w020" lemma="sāʕāt" type="adverb" lemmaRef="d:saacaat_001">sāʕāt</w>
+				<w xml:id="tunico.9_uH026w021" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH026pc013" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w022" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH026w023" lemma="qaṭʕa" type="noun" lemmaRef="d:qatca_001">qaṭʕa</w>
+				<pc xml:id="tunico.9_uH026pc014" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH026w024" lemma="sāʕāt" type="adverb" lemmaRef="d:saacaat_001">sāʕāt</w>
+				<w xml:id="tunico.9_uH026w025" lemma="qaṭʕa" type="noun" lemmaRef="d:qatca_001">qaṭʕa</w>
+				<w xml:id="tunico.9_uH026w026" lemma="ṛās" type="noun" lemmaRef="d:raas_001">ṛāṣ</w>
+				<w resp="auto" xml:id="tunico.9_uH026w027" lemma="māl|māl" subtype="I " lemmaRef="d:maal_001 d:maal_002" type="verb noun">māl</w>
+				<pc xml:id="tunico.9_uH026pc015" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uH026w028" rend="glue" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<w xml:id="tunico.9_uH026w029" lemma="bdā" type="verb" subtype="I" lemmaRef="d:bdaa_001">tibda</w>
+				<w xml:id="tunico.9_uH026w030" lemma="b-" type="preposition" lemmaRef="d:b_001">b</w>
+				<pc xml:id="tunico.9_uH026pc016" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w031" rend="glue" lemma="ʕišrīn" type="numeral" lemmaRef="d:cishriin_001">ʕišrīn</w>
+				<w resp="auto" xml:id="tunico.9_uH026w032" lemma="alf" type="numeral" lemmaRef="d:alf_001">alf</w>
+				<w xml:id="tunico.9_uH026w033" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH026pc017" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w034" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH026w035">ᵊb</w>
+				<pc xml:id="tunico.9_uH026pc018" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH026w036" rend="glue" lemma="dīnāṛ" type="noun" lemmaRef="d:diinaar_001">dīnāṛ</w>
+				<pc xml:id="tunico.9_uH026pc019" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-26.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG019" who="s:IG">
+				<w xml:id="tunico.9_uIG019w001" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uIG019pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG019w002" rend="glue" lemma="kān|kān" subtype=" I" lemmaRef="d:kaan_001 d:kaan_002" type="conjunction verb">kān</w>
+				<w xml:id="tunico.9_uIG019w003" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">tšūf</w>
+				<w xml:id="tunico.9_uIG019w004" lemma="baḥḏa" type="preposition" lemmaRef="d:bahdha_001">baḥḏā</w>
+				<pc xml:id="tunico.9_uIG019pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG019w005" rend="glue" lemma="-hum" type="pronominalSuffix" lemmaRef="d:hum_001">hum</w>
+				<pc xml:id="tunico.9_uIG019pc003">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-19.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH027" who="s:H">
+				<w xml:id="tunico.9_uH027w001" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH027pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH027w002" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH027w003">ᵊb</w>
+				<pc xml:id="tunico.9_uH027pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH027w004" rend="glue" lemma="dīnāṛ" type="noun" lemmaRef="d:diinaar_001">dīnāṛ</w>
+				<pc xml:id="tunico.9_uH027pc003" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH027w005" lemma="qāl" type="verb" subtype="I" lemmaRef="d:qaal_001">yqul</w>
+				<pc xml:id="tunico.9_uH027pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH027w006" rend="glue">lik</w>
+				<w xml:id="tunico.9_uH027w007" xml:lang="fr">wōn</w>
+				<w xml:id="tunico.9_uH027w008" lemma="dīnāṛ" type="noun" lemmaRef="d:diinaar_001">dīnāṛ</w>
+				<pc xml:id="tunico.9_uH027pc005" rend="glue">…</pc>
+				<w resp="auto" xml:id="tunico.9_uH027w009" lemma="-ha" type="pronominalSuffix" lemmaRef="d:ha_001">ha</w>
+				<pc xml:id="tunico.9_uH027pc006" rend="glue">?</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-27.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG020" who="s:IG">
+				<w xml:id="tunico.9_uIG020w001" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<w xml:id="tunico.9_uIG020w002" lemma="āma" type="conjunction" lemmaRef="d:aama_001">āma</w>
+				<w xml:id="tunico.9_uIG020w003" lemma="ʕīb" type="noun" lemmaRef="d:ciib_001">ʕīb</w>
+				<w xml:id="tunico.9_uIG020w004" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uIG020pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG020w005" rend="glue" lemma="kān|kān" subtype=" I" lemmaRef="d:kaan_001 d:kaan_002" type="conjunction verb">kān</w>
+				<w xml:id="tunico.9_uIG020w006" lemma="šāf" type="verb" subtype="I" lemmaRef="d:shaaf_001">tšūf</w>
+				<w xml:id="tunico.9_uIG020w007" lemma="baḥḏa" type="preposition" lemmaRef="d:bahdha_001">baḥḏā</w>
+				<pc xml:id="tunico.9_uIG020pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w resp="auto" xml:id="tunico.9_uIG020w008" rend="glue" lemma="-hum" type="pronominalSuffix" lemmaRef="d:hum_001">hum</w>
+				<w xml:id="tunico.9_uIG020w009" lemma="zāda" type="adverb" lemmaRef="d:zaada_001">zāda</w>
+				<w resp="auto" xml:id="tunico.9_uIG020w010" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uIG020pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<pc xml:id="tunico.9_uIG020pc004" rend="glue">…</pc>
+				<w resp="auto" xml:id="tunico.9_uIG020w011" rend="glue" lemma="mā-" type="particle" lemmaRef="d:maa_002">mā</w>
+				<pc xml:id="tunico.9_uIG020pc005" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG020w012" rend="glue" lemma="ʕṛaf" type="verb" subtype="I" lemmaRef="d:craf_001">yaʕṛfū</w>
+				<pc xml:id="tunico.9_uIG020pc006" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG020w013" rend="glue">š</w>
+				<w xml:id="tunico.9_uIG020w014" lemma="il-" type="definiteArticle" lemmaRef="d:il_001">il</w>
+				<pc xml:id="tunico.9_uIG020pc007" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG020w015" rend="glue" lemma="qīma" type="noun" lemmaRef="d:qiima_001">qīma</w>
+				<w xml:id="tunico.9_uIG020w016" lemma="zāda" type="adverb" lemmaRef="d:zaada_001">zāda</w>
+				<pc xml:id="tunico.9_uIG020pc008" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-20.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH028" who="s:H">
+				<w xml:id="tunico.9_uH028w001" lemma="ayy" type="responseParticle" lemmaRef="d:ayy_001">ayy</w>
+				<pc xml:id="tunico.9_uH028pc001" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH028w002" lemma="salām" type="noun" lemmaRef="d:salaam_001">salām</w>
+				<pc xml:id="tunico.9_uH028pc002" rend="glue">…</pc>
+				<w xml:id="tunico.9_uH028w003" lemma="hāhūka" lemmaRef="d:haahuuka_001" type="particle">hawka</w>
+				<w xml:id="tunico.9_uH028w004" lemma="ʕṭā" type="verb" subtype="I" lemmaRef="d:ctaa_001">ʕṭīt</w>
+				<pc xml:id="tunico.9_uH028pc003" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH028w005" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">ik</w>
+				<w xml:id="tunico.9_uH028w006" lemma="uxt" type="noun" lemmaRef="d:uxt_001">uxt</w>
+				<pc xml:id="tunico.9_uH028pc004" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH028w007" rend="glue" lemma="-i" type="pronominalSuffix" lemmaRef="d:i_001">i</w>
+				<pc xml:id="tunico.9_uH028pc005">...</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-28.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG021" who="s:IG">
+				<w xml:id="tunico.9_uIG021w001" lemma="bāhi" type="activeParticiple" lemmaRef="d:baahi_001">bāh</w>
+				<pc xml:id="tunico.9_uIG021pc001" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-21.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uH029" who="s:H">
+				<w xml:id="tunico.9_uH029w001" lemma="w-" type="conjunction" lemmaRef="d:w_001">w</w>
+				<pc xml:id="tunico.9_uH029pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH029w002" rend="glue" lemma="ṛḥam" type="verb" subtype="I" lemmaRef="d:rham_002">yiṛḥam</w>
+				<w xml:id="tunico.9_uH029w003" lemma="wāldīn" type="dualNoun" lemmaRef="d:waaldiin_001">wāldī</w>
+				<pc xml:id="tunico.9_uH029pc002" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uH029w004" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">k</w>
+				<pc xml:id="tunico.9_uH029pc003" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/H-29.m4a"/>
+			</u>
+			<u xml:id="tunico.9_uIG022" who="s:IG">
+				<w xml:id="tunico.9_uIG022w001" lemma="ṛḥam" type="verb" subtype="I" lemmaRef="d:rham_002">yiṛḥam</w>
+				<w xml:id="tunico.9_uIG022w002" lemma="wāldīn" type="dualNoun" lemmaRef="d:waaldiin_001">wāldī</w>
+				<pc xml:id="tunico.9_uIG022pc001" rend="glue" type="ignoreInSearchIndex">-</pc>
+				<w xml:id="tunico.9_uIG022w003" rend="glue" lemma="-ik" type="pronominalSuffix" lemmaRef="d:ik_001">k</w>
+				<pc xml:id="tunico.9_uIG022pc002" rend="glue">.</pc>
+				<media mimeType="audio/mp4" url="https://tunico.acdh.oeaw.ac.at/files/10_souq_salesman/IG-22.m4a"/>
+			</u>
+		</body>
+	</text>
+</TEI>
