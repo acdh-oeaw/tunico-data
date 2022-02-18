@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><CMD xmlns="http://www.clarin.eu/cmd/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1336550377513/xsd" CMDVersion="1.1">
+    <Header>
+        <MdCreator>Omar Siam</MdCreator>
+        <MdCreationDate>2016-07-15</MdCreationDate>
+        <MdSelfLink>http://hdl.handle.net/11022/0000-0001-8AFD-7</MdSelfLink>
+        <MdProfile>clarin.eu:cr1:p_1336550377513</MdProfile>
+        <MdCollectionDisplayName>TuniCo - Linguistic Dynamics in the Greater Tunis Area</MdCollectionDisplayName>
+    </Header>
+    <Resources>
+        <ResourceProxyList>
+            <ResourceProxy id="tunico.14">
+                <ResourceType mimetype="application/xml">LandingPage</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B1D-3</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.14tei">
+                <ResourceType mimetype="text/xml+tei">Resource</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B36-6</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.14wav">
+                <ResourceType mimetype="audio/wav">Resource</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B1E-2</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.14fcs">
+                <ResourceType mimetype="text/xml">SearchService</ResourceType>
+                <ResourceRef>https://tunico.acdh.oeaw.ac.at/fcs</ResourceRef>
+            </ResourceProxy>
+        </ResourceProxyList>
+        <JournalFileProxyList/>
+        <ResourceRelationList/>
+        <IsPartOfList>
+            <IsPartOf>http://hdl.handle.net/11022/0000-0001-8B2B-3</IsPartOf>
+        </IsPartOfList>
+    </Resources>
+    <Components>
+        <media-session-profile>
+            <media-session ComponentId="clarin.eu:cr1:c_1336550377514">
+                <Name>Activist in Sit-in</Name>
+                <NumberOfSpeakers>4</NumberOfSpeakers>
+                <Corpus>TUNICO</Corpus>
+                <Environment>public place</Environment>
+                <RecordingDate>2013-09-14</RecordingDate>
+                <SubjectLanguages>
+                    <SubjectLanguage ComponentId="clarin.eu:cr1:c_1271859438126">
+                        <Dominant>true</Dominant>
+                        <SourceLanguage>true</SourceLanguage>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description>Using VICAV transcription</Description>
+                        </Description>
+                        <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                            <LanguageName>Tunisian Arabic</LanguageName>
+                            <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                <iso-639-3-code>aeb</iso-639-3-code>
+                            </ISO639>
+                        </Language>
+                    </SubjectLanguage>
+                    <SubjectLanguage ComponentId="clarin.eu:cr1:c_1271859438126">
+                        <Dominant>false</Dominant>
+                        <SourceLanguage>true</SourceLanguage>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description>Using VICAV transcription</Description>
+                        </Description>
+                        <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                            <LanguageName>French</LanguageName>
+                            <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                <iso-639-3-code>fra</iso-639-3-code>
+                            </ISO639>
+                        </Language>
+                    </SubjectLanguage>
+                </SubjectLanguages>
+                <media-session-actors ComponentId="clarin.eu:cr1:c_1337163583921">
+                    <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                        <Description>Aḥmad, X, InesG, InesD, Fāyiz, Bystander</Description>
+                    </Description>
+                    <media-session-actor ComponentId="clarin.eu:cr1:c_1337163583920">
+                        <Role>Source</Role>
+                        <Name>Aḥmad</Name>
+                        <Code>A</Code>
+                        <Age>25</Age>
+                        <BirthYear>1988</BirthYear>
+                        <Sex>Male</Sex>
+                        <Education>University Degree</Education>
+                        <Profession>Student</Profession>
+                        <Anonymized>true</Anonymized>
+                        <BirthCountry>
+                            <Country ComponentId="clarin.eu:cr1:c_1271859438104">
+                                <Code>TN</Code>
+                            </Country>
+                        </BirthCountry>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description>Activist who participates in a sit-in</Description>
+                        </Description>
+                        <ActorLanguages ComponentId="clarin.eu:cr1:c_1271859438153">
+                            <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                <Description>Primary communication language in recording is Tunisian Arabic with the usual French code switching</Description>
+                            </Description>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>true</MotherTongue>
+                                <PrimaryLanguage>true</PrimaryLanguage>
+                                <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                    <Description>From Kabbāṛīya</Description>
+                                </Description>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>Tunisian Arabic</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>aeb</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>false</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>French</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>fra</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                        </ActorLanguages>
+                    </media-session-actor>
+                    <media-session-actor ComponentId="clarin.eu:cr1:c_1337163583920">
+                        <Role>Source</Role>
+                        <Name>Fāyiz</Name>
+                        <Code>F</Code>
+                        <Age>23</Age>
+                        <BirthYear>1990</BirthYear>
+                        <Sex>Male</Sex>
+                        <Education>High School</Education>
+                        <Profession>Student</Profession>
+                        <Anonymized>true</Anonymized>
+                        <BirthCountry>
+                            <Country ComponentId="clarin.eu:cr1:c_1271859438104">
+                                <Code>TN</Code>
+                            </Country>
+                        </BirthCountry>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description/>
+                        </Description>
+                        <ActorLanguages ComponentId="clarin.eu:cr1:c_1271859438153">
+                            <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                <Description>Primary communication language in recording is Tunisian Arabic with the usual French code switching</Description>
+                            </Description>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>true</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                    <Description>From Djerba</Description>
+                                </Description>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>Tunisian Arabic</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>aeb</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>false</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>French</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>fra</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                        </ActorLanguages>
+                    </media-session-actor>
+					   <media-session-actor ComponentId="clarin.eu:cr1:c_1337163583920">
+                        <Role>Source</Role>
+                        <Code>X</Code>
+                        <Sex>Male</Sex>
+                        <Education/>
+                        <Profession/>
+                        <Anonymized>true</Anonymized>
+                        <BirthCountry>
+                            <Country ComponentId="clarin.eu:cr1:c_1271859438104">
+                                <Code>TN</Code>
+                            </Country>
+                        </BirthCountry>
+                         <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description>Activist who participates in a sit-in</Description>
+                        </Description>
+                        <ActorLanguages ComponentId="clarin.eu:cr1:c_1271859438153">
+                            <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                <Description>Primary communication language in recording is Tunisian Arabic with the usual French code switching</Description>
+                            </Description>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>true</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                    <Description/>
+                                </Description>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>Tunisian Arabic</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>aeb</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>false</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>French</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>fra</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                        </ActorLanguages>
+                    </media-session-actor>
+                    <media-session-actor ComponentId="clarin.eu:cr1:c_1337163583920">
+                        <Role>Interviewer</Role>
+                        <FullName>Ines Dallaji</FullName>
+                        <Code>ID</Code>
+                        <Age>26</Age>
+                        <BirthYear>1987</BirthYear>
+                        <Sex>Female</Sex>
+                        <Education>MA</Education>
+                        <Profession>Researcher</Profession>
+                        <Anonymized>false</Anonymized>
+                        <BirthCountry>
+                            <Country ComponentId="clarin.eu:cr1:c_1271859438104">
+                                <Code>AT</Code>
+                            </Country>
+                        </BirthCountry>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description>Field Researcher</Description>
+                        </Description>
+                        <ActorLanguages ComponentId="clarin.eu:cr1:c_1271859438153">
+                            <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                <Description>Primary communication language in recording is Tunisian Arabic with the usual French code switching</Description>
+                            </Description>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>false</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                    <Description>Arabic language studies with focus on Tunisian Arabic</Description>
+                                </Description>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>Tunisian Arabic</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>aeb</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>false</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>French</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>fra</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                        </ActorLanguages>
+                    </media-session-actor>
+                    <media-session-actor ComponentId="clarin.eu:cr1:c_1337163583920">
+                        <Role>Interviewer</Role>
+                        <FullName>Ines Gabsi</FullName>
+                        <Code>IG</Code>
+                        <Age>23</Age>
+                        <BirthYear>1990</BirthYear>
+                        <Sex>Female</Sex>
+                        <Education>BA</Education>
+                        <Profession>Researcher</Profession>
+                        <Anonymized>false</Anonymized>
+                        <BirthCountry>
+                            <Country ComponentId="clarin.eu:cr1:c_1271859438104">
+                                <Code>AT</Code>
+                            </Country>
+                        </BirthCountry>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description>Field Researcher</Description>
+                        </Description>
+                        <ActorLanguages ComponentId="clarin.eu:cr1:c_1271859438153">
+                            <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                <Description>Primary communication language in recording is Tunisian Arabic with the usual French code switching</Description>
+                            </Description>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>true</MotherTongue>
+                                <PrimaryLanguage>true</PrimaryLanguage>
+                                <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                    <Description>Born in Austria. Grew up and finished school in Djerba, Tunisia. Primary Languages are German, French and Tunisian Arabic.</Description>
+                                </Description>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>Tunisian Arabic</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>aeb</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                            <ActorLanguage ComponentId="clarin.eu:cr1:c_1271859438147">
+                                <MotherTongue>false</MotherTongue>
+                                <PrimaryLanguage>false</PrimaryLanguage>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>French</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>fra</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </ActorLanguage>
+                        </ActorLanguages>
+                    </media-session-actor>
+                </media-session-actors>
+                <Content ComponentId="clarin.eu:cr1:c_1271859438152">
+                    <Topic xml:lang="de">Gründe für den Sitzstreik und die Situation junger Menschen, im speziellen Akademikern, in Tunesien</Topic>
+                    <Topic xml:lang="en">The reasons for the sit-in and the situation of young people, in particular academics, in Tunisia</Topic>
+                    <CommunicationContext ComponentId="clarin.eu:cr1:c_1271859438150">
+                        <Interactivity>interactive</Interactivity>
+                        <PlanningType>spontaneous</PlanningType>
+                        <Involvement>non-elicited</Involvement>
+                        <SocialContext>Public</SocialContext>
+                        <EventStructure>Multilogue</EventStructure>
+                        <Channel>Face to Face</Channel>
+                    </CommunicationContext>
+                    <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                        <Description/>
+                    </Description>
+                </Content>
+                <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                    <Description/>
+                </Description>
+                <media-annotation-bundle ComponentId="clarin.eu:cr1:c_1336550377515">
+                    <media-file ComponentId="clarin.eu:cr1:c_1336550377512">
+                        <Type>audio</Type>
+                        <Quality>5</Quality>
+                        <RecordingPlatformHardware>Zoom H2</RecordingPlatformHardware>
+                        <Location ComponentId="clarin.eu:cr1:c_1271859438112">
+                            <Address/>
+                            <Region>Tunis Area</Region>
+                            <Country ComponentId="clarin.eu:cr1:c_1271859438104">
+                                <Code>TN</Code>
+                            </Country>
+                            <Continent ComponentId="clarin.eu:cr1:c_1271859438105">
+                                <Code>AF</Code>
+                            </Continent>
+                        </Location>
+                        <Size ComponentId="clarin.eu:cr1:c_1271859438128">
+                            <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
+                                <Number>2419</Number>
+                                <SizeUnit>sec</SizeUnit>
+                            </TotalSize>
+                            <SizePerLanguage ComponentId="clarin.eu:cr1:c_1271859438120">
+                                <Number>2419</Number>
+                                <SizeUnit>sec</SizeUnit>
+                                <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                                    <LanguageName>Tunisian Arabic</LanguageName>
+                                    <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                        <iso-639-3-code>aeb</iso-639-3-code>
+                                    </ISO639>
+                                </Language>
+                            </SizePerLanguage>
+                        </Size>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description/>
+                        </Description>
+                        <SpeechTechnicalMetadata ComponentId="clarin.eu:cr1:c_1271859438143">
+                            <SamplingFrequency>44100</SamplingFrequency>
+                            <NumberOfChannels>2</NumberOfChannels>
+                            <ByteOrder>little endian</ByteOrder>
+                            <Compression>none</Compression>
+                            <BitResolution>16</BitResolution>
+                            <SpeechCoding>pcm</SpeechCoding>
+                            <MimeType ComponentId="clarin.eu:cr1:c_1271859438106">
+                                <MimeType>audio/wav</MimeType>
+                            </MimeType>
+                        </SpeechTechnicalMetadata>
+                    </media-file>
+                    <WrittenResource ComponentId="clarin.eu:cr1:c_1337163583919">
+                        <Name>Activist in Sit-in</Name>
+                        <CreationYear>2014</CreationYear>
+                        <Derivation>Original</Derivation>
+                        <DerivationMode>Manual</DerivationMode>
+                        <AnnotationStyle>embedded</AnnotationStyle>
+                        <CharacterEncoding/>
+                        <Anonymized>true</Anonymized>
+                        <AnnotationType ComponentId="clarin.eu:cr1:c_1271859438131">
+                            <AnnotationType>Lemma</AnnotationType>
+                            <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                                <Description/>
+                            </Description>
+                        </AnnotationType>
+                        <AnnotationFormat ComponentId="clarin.eu:cr1:c_1271859438107">
+                            <AnnotationFormat>text/xml+tei</AnnotationFormat>
+                        </AnnotationFormat>
+                        <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
+                            <Number>1888256</Number>
+                            <SizeUnit>byte</SizeUnit>
+                        </TotalSize>
+                        <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                            <LanguageName>Tunisian Arabic</LanguageName>
+                            <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                                <iso-639-3-code>aeb</iso-639-3-code>
+                            </ISO639>
+                        </Language>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description/>
+                        </Description>
+                    </WrittenResource>
+                </media-annotation-bundle>
+            </media-session>
+        </media-session-profile>
+    </Components>
+</CMD>

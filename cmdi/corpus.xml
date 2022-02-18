@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?><CMD xmlns="http://www.clarin.eu/cmd/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1357720977528/xsd" CMDVersion="1.1">
+    <Header>
+        <MdCreator>Omar Siam</MdCreator>
+        <MdCreationDate>2016-07-15</MdCreationDate>
+        <MdSelfLink>http://hdl.handle.net/11022/0000-0001-8B2B-3</MdSelfLink>
+        <MdProfile>clarin.eu:cr1:p_1357720977528</MdProfile>
+        <MdCollectionDisplayName>TuniCo - Linguistic Dynamics in the Greater Tunis Area</MdCollectionDisplayName>
+    </Header>
+    <Resources>
+        <ResourceProxyList>
+            <ResourceProxy id="tunico-corpus">
+                <ResourceType mimetype="application/xml">LandingPage</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AEF-7</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.1">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF0-4</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.2">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF1-3</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.3">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF2-2</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.4">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF3-1</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.5">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF4-0</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.6">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF5-F</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.7">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF6-E</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.8">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF7-D</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.9">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF8-C</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.10">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AF9-B</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.11">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AFA-A</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.12">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AFB-9</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.13">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AFC-8</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.14">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AFD-7</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.15">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AFE-6</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.16">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8AFF-5</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.17">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B00-2</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.18">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B01-1</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.19">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B02-0</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.20">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B03-F</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.21">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B04-E</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.22">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B05-D</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.23">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B06-C</ResourceRef>
+            </ResourceProxy>
+            <ResourceProxy id="tunico.24">
+                <ResourceType mimetype="application/xml">Metadata</ResourceType>
+                <ResourceRef>http://hdl.handle.net/11022/0000-0001-8B07-B</ResourceRef>
+            </ResourceProxy>
+        </ResourceProxyList>
+        <JournalFileProxyList/>
+        <ResourceRelationList/>
+    </Resources>
+    <Components>
+        <SpeechCorpus>
+            <GeneralInfo ComponentId="clarin.eu:cr1:c_1359626292113">
+                <ResourceName>TUNICO Corpus</ResourceName>
+                <ResourceTitle>TuniCo - Linguistic Dynamics in the Greater Tunis Area</ResourceTitle>
+                <ResourceClass>SpeechCorpus</ResourceClass>
+                <Version>1</Version>
+                <LifeCycleStatus>development</LifeCycleStatus>
+                <StartYear>2013</StartYear>
+                <CompletionYear>2016</CompletionYear>
+                <PublicationDate>2016</PublicationDate>
+                <LastUpdate/>
+                <TimeCoverage>2013-2014</TimeCoverage>
+                <LegalOwner>University of Vienna</LegalOwner>
+                <Location ComponentId="clarin.eu:cr1:c_1357720977471"><!--
+                    Wessen?  -->
+                    <Address/>
+                    <Region>Tunis Area</Region>
+                    <Country ComponentId="clarin.eu:cr1:c_1290431694493">
+                        <CountryName>Tunisia</CountryName>
+                        <CountryCoding>TN</CountryCoding>
+                    </Country>
+                </Location>
+                <ModalityInfo ComponentId="clarin.eu:cr1:c_1359626292114">
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </ModalityInfo>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description>The corpus represents transcriptions of recordings of more than 30 hours of dialogues and narrative interviews, which were collected by Ines Dallaji and Ines Gabsi during a field-trip in 2013. In its current form it is made up of 24 digital documents. According to the research plan, our researchers approached speakers from different social backgrounds under the age of thirty-five who have grown up and still live in the Greater Tunis area. The number of male and female speakers in our recordings is balanced.</Description>
+
+                </Descriptions>
+            </GeneralInfo>
+            <Access ComponentId="clarin.eu:cr1:c_1357720977472">
+                <Availability>Public</Availability>
+                <DistributionMedium>WWW</DistributionMedium>
+                <Licence>https://creativecommons.org/licenses/by-nc-sa/3.0/at/</Licence>
+                <DeploymentToolInfo ComponentId="clarin.eu:cr1:c_1290431694500">
+                    <DeploymentTool>cr-xq-mets</DeploymentTool>
+                    <ToolType>XML Database Application</ToolType>
+                    <Version>0.12.99</Version>
+                    <Url/>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </DeploymentToolInfo>
+                <Contact ComponentId="clarin.eu:cr1:c_1290431694487">
+                    <Person>Stephan Procházka</Person>
+                    <Role>Project Leader</Role>
+                    <Address>Spitalgasse 2, Hof 4</Address>
+                    <Email>Stephan.Prochazka@univie.ac.at</Email>
+                    <Department>Institut für Orientalistik</Department>
+                    <Organisation>Universität Wien</Organisation>
+                    <TelephoneNumber>+43-1-4277/434-01</TelephoneNumber>
+                    <Url>http://orientalistik.univie.ac.at/</Url>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </Contact>
+                <Contact ComponentId="clarin.eu:cr1:c_1290431694487">
+                    <Person>Karlheinz Mörth</Person>
+                    <Role>Project Leader</Role>
+                    <Address>Sonnenfelsgasse 19</Address>
+                    <Email>Karlheinz.Moerth@oeaw.ac.at</Email>
+                    <Department>ACDH</Department>
+                    <Organisation>ÖAW</Organisation>
+                    <TelephoneNumber>+43-1-51581/2200</TelephoneNumber>
+                    <Url>https://www.oeaw.ac.at/acdh/</Url>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </Contact>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </Access>
+            <Creation ComponentId="clarin.eu:cr1:c_1357720977473">
+                <Topic>Various</Topic>
+                <Creators ComponentId="clarin.eu:cr1:c_1290431694499">
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                    <Creator ComponentId="clarin.eu:cr1:c_1290431694498">
+                        <Contact ComponentId="clarin.eu:cr1:c_1290431694487">
+                            <Person>Ines Dallaji</Person>
+                            <Role>Interviewer, Transcriber</Role>
+                            <Address>Spitalgasse 2, Hof 4</Address>
+                            <Email>Ines.Dallaji@univie.ac.at</Email>
+                            <Department>Institut für Orientalistik</Department>
+                            <Organisation>Universität Wien</Organisation>
+                            <Url>http://orientalistik.univie.ac.at/</Url>
+                            <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                                <Description/>
+                            </Descriptions>
+                        </Contact>
+                    </Creator>
+                    <Creator ComponentId="clarin.eu:cr1:c_1290431694498">
+                        <Contact ComponentId="clarin.eu:cr1:c_1290431694487">
+                            <Person>Ines Gabsi</Person>
+                            <Role>Interviewer, Transcriber</Role>
+                            <Address>Sonnenfelsgasse 19, 1010 Wien</Address>
+                            <Email>Ines.Gabsi@oeaw.ac.at</Email>
+                            <Department>ACDH</Department>
+                            <Organisation>ÖAW</Organisation>
+                            <Url>http://www.oeaw.ac.at/acdh/</Url>
+                            <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                                <Description/>
+                            </Descriptions>
+                        </Contact>
+                    </Creator>
+                </Creators>
+                <CreationToolInfo ComponentId="clarin.eu:cr1:c_1290431694497">
+                    <CreationTool>VLE</CreationTool>
+                    <ToolType>Specialized XML Editor</ToolType>
+                    <Version>1.1.111utf8</Version>
+                    <Url>https://clarin.oeaw.ac.at/vle</Url>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </CreationToolInfo>
+                <CreationToolInfo ComponentId="clarin.eu:cr1:c_1290431694497">
+                    <CreationTool>oXygen XML</CreationTool>
+                    <ToolType>XML Editor and XSL/XQuery development environment</ToolType>
+                    <Version>17.1</Version>
+                    <Url>https://www.oxygenxml.com/</Url>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </CreationToolInfo>
+                <CreationToolInfo ComponentId="clarin.eu:cr1:c_1290431694497">
+                    <CreationTool>LibreOffice</CreationTool>
+                    <ToolType>Word Processing Software</ToolType>
+                    <Version>5.1</Version>
+                    <Url>http://www.libreoffice.org/</Url>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </CreationToolInfo>
+                <Source ComponentId="clarin.eu:cr1:c_1290431694524">
+                    <OriginalSource>true</OriginalSource>
+                    <SourceType>audio/wav</SourceType>
+                    <MediaFiles>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                        <MediaFile>
+                            <CatalogueLink/>
+                            <Type>audio</Type>
+                            <Quality>3</Quality>
+                            <RecordingConditions/>
+                            <Position>
+                                <PositionType/>
+                                <StartPosition/>
+                                <EndPosition/>
+                            </Position>
+                            <Access>
+                                <Contact/>
+                            </Access>
+                        </MediaFile>
+                    </MediaFiles>
+                </Source>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </Creation>
+            <Project ComponentId="clarin.eu:cr1:c_1357720977474">
+                <ProjectName>TUNICO</ProjectName>
+                <ProjectTitle>Linguistic dynamics in the Greater Tunis Area: a corpus-based approach (TUNICO)</ProjectTitle>
+                <ProjectID>FWF; P-25706</ProjectID>
+                <Funder>FWF</Funder>
+                <Url>https://tunico.acdh.oeaw.ac.at</Url>
+                <Institution ComponentId="clarin.eu:cr1:c_1357720977475">
+                    <Department/>
+                    <Organisation/>
+                    <Url>https://www.fwf.ac.at/</Url>
+                    <Location ComponentId="clarin.eu:cr1:c_1357720977471">
+                        <Address>Sensengasse 1, 1090 Wien</Address>
+                        <Country ComponentId="clarin.eu:cr1:c_1290431694493">
+                            <CountryName>Austria</CountryName>
+                            <CountryCoding>AT</CountryCoding>
+                        </Country>
+                    </Location>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                    <Contact ComponentId="clarin.eu:cr1:c_1290431694487">
+                        <Person/>
+                        <Role/>
+                        <Address/>
+                        <Email/>
+                        <Department/>
+                        <Organisation/>
+                        <TelephoneNumber/>
+                        <FaxNumber/>
+                        <Url/>
+                        <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                            <Description/>
+                        </Descriptions>
+                    </Contact>
+                </Institution>
+                <Cooperations ComponentId="clarin.eu:cr1:c_1290431694489">
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                    <Cooperation ComponentId="clarin.eu:cr1:c_1290431694488">
+                        <CooperationPartner>Veronika Ritt-Benmimoun</CooperationPartner>
+                        <Department>Institut für Orientalistik</Department>
+                        <Organisation>Universität Wien</Organisation>
+                        <Url>http://orientalistik.univie.ac.at/</Url>
+                        <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                            <Description/>
+                        </Descriptions>
+                    </Cooperation>
+                </Cooperations>
+                <Contact ComponentId="clarin.eu:cr1:c_1290431694487">
+                    <Person>Prof. Stephan Prohazka</Person>
+                    <Role>Project Leader</Role>
+                    <Address>Spitalgasse 2, Hof 4</Address>
+                    <Email>Stephan.Prohazka@univie.ac.at</Email>
+                    <Department>Institut für Orientalistik</Department>
+                    <Organisation>Universität Wien</Organisation>
+                    <TelephoneNumber>+43-1-4277/434-01</TelephoneNumber>
+                    <Url>http://orientalistik.univie.ac.at/</Url>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </Contact>
+                <Duration ComponentId="clarin.eu:cr1:c_1271859438116">
+                    <StartYear>2013</StartYear>
+                    <CompletionYear>2016</CompletionYear>
+                </Duration>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </Project>
+            <Publications ComponentId="clarin.eu:cr1:c_1357720977486">
+                <Publication ComponentId="clarin.eu:cr1:c_1357720977477"><!--
+                    AIDA, etc -->
+                    <PublicationTitle/>
+                    <Author/>
+                    <Url/>
+                    <PublicationDate/>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </Publication>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </Publications>
+            <SubjectLanguages ComponentId="clarin.eu:cr1:c_1357720977487">
+                <NumberOfLanguages>2</NumberOfLanguages>
+                <SubjectLanguage ComponentId="clarin.eu:cr1:c_1357720977479">
+                    <DominantLanguage>true</DominantLanguage>
+                    <SourceLanguage>true</SourceLanguage>
+                    <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                        <LanguageName>Tunisian</LanguageName>
+                        <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                            <iso-639-3-code>aeb</iso-639-3-code>
+                        </ISO639>
+                    </Language>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </SubjectLanguage>
+                <SubjectLanguage ComponentId="clarin.eu:cr1:c_1357720977479">
+                    <DominantLanguage>false</DominantLanguage>
+                    <SourceLanguage>true</SourceLanguage>
+                    <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                        <LanguageName>French</LanguageName>
+                        <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                            <iso-639-3-code>fra</iso-639-3-code>
+                        </ISO639>
+                    </Language>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </SubjectLanguage>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </SubjectLanguages>
+            <DocumentationLanguages ComponentId="clarin.eu:cr1:c_1357720977480">
+                <DocumentationLanguage ComponentId="clarin.eu:cr1:c_1357720977481">
+                    <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                        <LanguageName>English</LanguageName>
+                        <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                            <iso-639-3-code>eng</iso-639-3-code>
+                        </ISO639>
+                    </Language>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </DocumentationLanguage>
+                <DocumentationLanguage ComponentId="clarin.eu:cr1:c_1357720977481">
+                    <Language ComponentId="clarin.eu:cr1:c_1271859438111">
+                        <LanguageName>German</LanguageName>
+                        <ISO639 ComponentId="clarin.eu:cr1:c_1271859438110">
+                            <iso-639-3-code>deu</iso-639-3-code>
+                        </ISO639>
+                    </Language>
+                </DocumentationLanguage>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </DocumentationLanguages>
+            <SpeechCorpusSpecific ComponentId="clarin.eu:cr1:c_1357720977529">
+                <Modalities>speech</Modalities>
+                <MediaType>audio</MediaType>
+                <SpeechCorpus ComponentId="clarin.eu:cr1:c_1271859438144">
+                    <DurationOfEffectiveSpeech>35:00:00</DurationOfEffectiveSpeech>
+                    <DurationOfFullDatabase>5:00:00</DurationOfFullDatabase>
+                    <NumberOfSpeakers>120</NumberOfSpeakers>
+                    <RecordingEnvironment>public place</RecordingEnvironment>
+                    <SpeakerDemographics/>
+                    <Quality>3</Quality>
+                    <RecordingPlatformHardware>H2</RecordingPlatformHardware>
+                    <RecordingPlatformSoftware/>
+                    <SpeechTechnicalMetadata ComponentId="clarin.eu:cr1:c_1271859438143">
+                        <SamplingFrequency>44100</SamplingFrequency>
+                        <NumberOfChannels>2</NumberOfChannels>
+                        <ByteOrder>little endian</ByteOrder>
+                        <Compression>none</Compression>
+                        <BitResolution>16</BitResolution>
+                        <SpeechCoding>pcm</SpeechCoding>
+                        <MimeType ComponentId="clarin.eu:cr1:c_1271859438106">
+                            <MimeType>audio/wav</MimeType>
+                        </MimeType>
+                    </SpeechTechnicalMetadata>
+                </SpeechCorpus>
+                <Multilinguality ComponentId="clarin.eu:cr1:c_1271859438121">
+                    <Multilinguality>Monolingual</Multilinguality>
+                </Multilinguality>
+                <AnnotationTypes ComponentId="clarin.eu:cr1:c_1271859438133">
+                    <AnnotationType ComponentId="clarin.eu:cr1:c_1271859438131">
+                        <AnnotationType>Lemma</AnnotationType>
+                        <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                            <Description/>
+                        </Description>
+                    </AnnotationType>
+                    <Description ComponentId="clarin.eu:cr1:c_1271859438118">
+                        <Description/>
+                    </Description>
+                </AnnotationTypes>
+                <Size ComponentId="clarin.eu:cr1:c_1271859438128">
+                    <TotalSize ComponentId="clarin.eu:cr1:c_1271859438114">
+                        <Number>33</Number>
+                        <SizeUnit>h</SizeUnit>
+                    </TotalSize>
+                </Size>
+            </SpeechCorpusSpecific>
+            <TechnicalInfo ComponentId="clarin.eu:cr1:c_1357720977482">
+                <CharacterEncoding>UTF-8</CharacterEncoding>
+                <LanguageScripts ComponentId="clarin.eu:cr1:c_1357720977483">
+                    <LanguageScriptGrp ComponentId="clarin.eu:cr1:c_1290431694509">
+                        <ScriptName>Latin</ScriptName>
+                        <LanguageScript>Latn</LanguageScript>
+                    </LanguageScriptGrp>
+                    <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                        <Description/>
+                    </Descriptions>
+                </LanguageScripts>
+                <MimeTypes ComponentId="clarin.eu:cr1:c_1290431694511">
+                    <MimeType>text/xml+tei</MimeType>
+                </MimeTypes>
+                <Descriptions ComponentId="clarin.eu:cr1:c_1290431694486">
+                    <Description/>
+                </Descriptions>
+            </TechnicalInfo>
+        </SpeechCorpus>
+    </Components>
+</CMD>
